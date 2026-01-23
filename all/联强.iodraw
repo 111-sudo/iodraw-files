@@ -248,22 +248,22 @@
           <mxGeometry x="1128" y="80" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-93" value="设备维保" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="1128" y="157.25" width="90" height="45" as="geometry" />
+          <mxGeometry x="1128" y="149" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-94" value="安环管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="1128" y="225.25" width="90" height="45" as="geometry" />
+          <mxGeometry x="1128" y="218" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-95" value="条码追溯" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="1128" y="292.25" width="90" height="45" as="geometry" />
+          <mxGeometry x="1128" y="287" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-96" value="成本核算" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="1128" y="360.25" width="90" height="45" as="geometry" />
+          <mxGeometry x="1128" y="356" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-97" value="审批管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="1128" y="427.25" width="90" height="45" as="geometry" />
+          <mxGeometry x="1128" y="424" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-98" value="消息推送" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="1128" y="495.25" width="90" height="45" as="geometry" />
+          <mxGeometry x="1128" y="493" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-99" value="工艺管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="1128" y="562.25" width="90" height="45" as="geometry" />
