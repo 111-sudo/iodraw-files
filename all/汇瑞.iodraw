@@ -139,7 +139,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lKTR6XNcudCmPzx1C0tY-131" target="lKTR6XNcudCmPzx1C0tY-141">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="627" y="564" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-131" value="三元库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="592" y="424.25" width="70" height="80" as="geometry" />
@@ -274,18 +278,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="lKTR6XNcudCmPzx1C0tY-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKTR6XNcudCmPzx1C0tY-173" target="lKTR6XNcudCmPzx1C0tY-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-173" value="外加工经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="760.5" y="260" width="90" height="42.5" as="geometry" />
-        </mxCell>
-        <mxCell id="lKTR6XNcudCmPzx1C0tY-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKTR6XNcudCmPzx1C0tY-173" target="lKTR6XNcudCmPzx1C0tY-135">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="497" y="264.5" as="sourcePoint" />
-            <mxPoint x="778" y="464" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="740" y="280" />
-              <mxPoint x="740" y="480" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-175" value="创建订单&lt;div&gt;关联工艺&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="307" y="259" width="90" height="42.5" as="geometry" />
