@@ -57,9 +57,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dI35EAaob4jDQp5fQXdu-217" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dI35EAaob4jDQp5fQXdu-120" target="dI35EAaob4jDQp5fQXdu-123" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-120" value="原料领用" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="297" y="534.25" width="90" height="40" as="geometry" />
         </mxCell>
@@ -371,6 +368,9 @@
         </mxCell>
         <mxCell id="oJkDouzzKyJVuR5fgeIq-8" value="换筘" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="359.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oJkDouzzKyJVuR5fgeIq-9" value="加弹" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="374.98" y="534.25" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
