@@ -550,6 +550,9 @@
         <mxCell id="-MVk727PhS-SFFMMifHV-94" value="外加工经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="440" y="542.75" width="90" height="42.5" as="geometry" />
         </mxCell>
+        <mxCell id="-MVk727PhS-SFFMMifHV-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-MVk727PhS-SFFMMifHV-94" target="-MVk727PhS-SFFMMifHV-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
