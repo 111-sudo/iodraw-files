@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="rkYzbnnPaA7jhdLGilgq">
-    <mxGraphModel dx="600" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-20" value="机物料库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
-          <mxGeometry x="751" y="40" width="70" height="80" as="geometry" />
+          <mxGeometry x="756" y="40" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dSKPMqexFD88YO8ZhlAx-22" target="dSKPMqexFD88YO8ZhlAx-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -112,7 +112,7 @@
           <mxGeometry x="437" y="266.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-38" value="穿综" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="746" y="266.25" width="80" height="40" as="geometry" />
+          <mxGeometry x="751" y="266.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dSKPMqexFD88YO8ZhlAx-39" target="dSKPMqexFD88YO8ZhlAx-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -155,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-49" value="经轴库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
-          <mxGeometry x="751" y="373.25" width="70" height="80" as="geometry" />
+          <mxGeometry x="756" y="373.25" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="dSKPMqexFD88YO8ZhlAx-38" target="dSKPMqexFD88YO8ZhlAx-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -179,7 +179,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-54" value="织造" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="746" y="493.25" width="80" height="40" as="geometry" />
+          <mxGeometry x="751" y="493.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dSKPMqexFD88YO8ZhlAx-55" target="dSKPMqexFD88YO8ZhlAx-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
