@@ -283,7 +283,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HZrLANZT6PZ8YLJTJnER-2" value="新旧筘入库" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="585" y="154" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="585" y="169" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="HZrLANZT6PZ8YLJTJnER-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HZrLANZT6PZ8YLJTJnER-4" target="HZrLANZT6PZ8YLJTJnER-5">
           <mxGeometry relative="1" as="geometry" />
@@ -292,10 +292,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HZrLANZT6PZ8YLJTJnER-4" value="钢筘库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
-          <mxGeometry x="756" y="135.25" width="70" height="80" as="geometry" />
+          <mxGeometry x="756" y="150.25" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HZrLANZT6PZ8YLJTJnER-5" value="钢筘报废" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="895" y="154" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="895" y="169" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="HZrLANZT6PZ8YLJTJnER-8" value="换筘" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="320" width="60" height="30" as="geometry" />
