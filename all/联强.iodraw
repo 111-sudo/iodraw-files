@@ -348,8 +348,8 @@
         <mxCell id="HZrLANZT6PZ8YLJTJnER-5" value="钢筘报废" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="895" y="154" width="90" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="HZrLANZT6PZ8YLJTJnER-8" value="销售出库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="935" y="343.25" width="60" height="30" as="geometry" />
+        <mxCell id="HZrLANZT6PZ8YLJTJnER-8" value="换筘" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
