@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="yJs9qlhEBJ-y-Ns0KCyD">
-    <mxGraphModel dx="724" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,33 +145,6 @@
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JI7UKNBIRY0i_7WP0AxC-109" target="JI7UKNBIRY0i_7WP0AxC-110" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JI7UKNBIRY0i_7WP0AxC-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JI7UKNBIRY0i_7WP0AxC-114" target="JI7UKNBIRY0i_7WP0AxC-116" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JI7UKNBIRY0i_7WP0AxC-114" value="采购申请" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="441.41" y="154" width="90" height="42.5" as="geometry" />
-        </mxCell>
-        <mxCell id="JI7UKNBIRY0i_7WP0AxC-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JI7UKNBIRY0i_7WP0AxC-116" target="JI7UKNBIRY0i_7WP0AxC-118" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JI7UKNBIRY0i_7WP0AxC-116" value="机物料采购" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="583.41" y="154" width="100" height="42.5" as="geometry" />
-        </mxCell>
-        <mxCell id="JI7UKNBIRY0i_7WP0AxC-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JI7UKNBIRY0i_7WP0AxC-118" target="JI7UKNBIRY0i_7WP0AxC-120" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JI7UKNBIRY0i_7WP0AxC-118" value="机物料库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
-          <mxGeometry x="759.41" y="135.25" width="70" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JI7UKNBIRY0i_7WP0AxC-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JI7UKNBIRY0i_7WP0AxC-120" target="JI7UKNBIRY0i_7WP0AxC-121" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JI7UKNBIRY0i_7WP0AxC-120" value="领料申请" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="898.41" y="154" width="90" height="42.5" as="geometry" />
-        </mxCell>
-        <mxCell id="JI7UKNBIRY0i_7WP0AxC-121" value="投入生产" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1021.41" y="154" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="b1xqcdpq81XYUh1sh2pG-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JI7UKNBIRY0i_7WP0AxC-124" target="JI7UKNBIRY0i_7WP0AxC-127">
           <mxGeometry relative="1" as="geometry" />
