@@ -368,6 +368,9 @@
         <mxCell id="oJkDouzzKyJVuR5fgeIq-3" value="钢筘报废" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="898.41" y="228.75" width="90" height="42.5" as="geometry" />
         </mxCell>
+        <mxCell id="oJkDouzzKyJVuR5fgeIq-8" value="换筘" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="829" y="358" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
