@@ -186,6 +186,9 @@
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JI7UKNBIRY0i_7WP0AxC-136" target="JI7UKNBIRY0i_7WP0AxC-142" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TOabpEEhNaMSyfxExnQs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JI7UKNBIRY0i_7WP0AxC-136" target="JI7UKNBIRY0i_7WP0AxC-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-136" value="经轴库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
           <mxGeometry x="762.12" y="432.5" width="70" height="80" as="geometry" />
         </mxCell>
@@ -261,7 +264,7 @@
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JI7UKNBIRY0i_7WP0AxC-127" target="JI7UKNBIRY0i_7WP0AxC-136" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="725" y="351" />
+              <mxPoint x="725" y="341" />
               <mxPoint x="725" y="473" />
             </Array>
           </mxGeometry>
@@ -297,7 +300,7 @@
         <mxCell id="b1xqcdpq81XYUh1sh2pG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JI7UKNBIRY0i_7WP0AxC-124" target="JI7UKNBIRY0i_7WP0AxC-131">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="590" y="351" />
+              <mxPoint x="590" y="341" />
             </Array>
           </mxGeometry>
         </mxCell>
