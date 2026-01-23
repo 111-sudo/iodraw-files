@@ -182,14 +182,6 @@
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-121" value="投入生产" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1021.41" y="154" width="90" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="JI7UKNBIRY0i_7WP0AxC-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JI7UKNBIRY0i_7WP0AxC-124" target="JI7UKNBIRY0i_7WP0AxC-127" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="486" y="328" />
-              <mxPoint x="628" y="328" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="b1xqcdpq81XYUh1sh2pG-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JI7UKNBIRY0i_7WP0AxC-124" target="JI7UKNBIRY0i_7WP0AxC-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -341,7 +333,13 @@
           <mxGeometry x="1116.13" y="681.6" width="100.25" height="100.25" as="geometry" />
         </mxCell>
         <mxCell id="b1xqcdpq81XYUh1sh2pG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JI7UKNBIRY0i_7WP0AxC-124" target="JI7UKNBIRY0i_7WP0AxC-131">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="369" />
+              <mxPoint x="560" y="410" />
+              <mxPoint x="615" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
