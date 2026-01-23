@@ -256,6 +256,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="TOabpEEhNaMSyfxExnQs-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JI7UKNBIRY0i_7WP0AxC-162" target="JI7UKNBIRY0i_7WP0AxC-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-162" value="钢筘库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="762.12" y="201.25" width="70" height="80" as="geometry" />
         </mxCell>
