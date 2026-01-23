@@ -182,11 +182,6 @@
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-121" value="投入生产" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1021.41" y="154" width="90" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="JI7UKNBIRY0i_7WP0AxC-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JI7UKNBIRY0i_7WP0AxC-124" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="556.4099999999999" y="368.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JI7UKNBIRY0i_7WP0AxC-124" target="JI7UKNBIRY0i_7WP0AxC-127" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -205,7 +200,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-127" value="分条" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="626.41" y="348.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="588.41" y="349" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JI7UKNBIRY0i_7WP0AxC-131" target="JI7UKNBIRY0i_7WP0AxC-139" edge="1">
           <mxGeometry relative="1" as="geometry" />
