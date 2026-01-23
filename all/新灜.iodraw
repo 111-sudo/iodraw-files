@@ -91,6 +91,9 @@
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-91" value="官网：www.hzkmzn.com" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;gradientColor=none;fontFamily=Helvetica;fontSize=14;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="186.98" y="776.4566929133858" width="263" height="26.37795275590551" as="geometry" />
         </mxCell>
+        <mxCell id="b1xqcdpq81XYUh1sh2pG-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JI7UKNBIRY0i_7WP0AxC-98" target="JI7UKNBIRY0i_7WP0AxC-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-98" value="客户下单" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="441.41" y="231.25" width="90" height="42.5" as="geometry" />
         </mxCell>
