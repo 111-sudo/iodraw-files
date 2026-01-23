@@ -101,7 +101,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-100" value="创建订单&lt;div&gt;关联工艺&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="295.41" y="290" width="90" height="40" as="geometry" />
+          <mxGeometry x="295.41" y="221.25" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-101" value="原料采购" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="295.41" y="360" width="90" height="40" as="geometry" />
@@ -124,7 +124,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="410" y="573" />
-              <mxPoint x="410" y="380" />
+              <mxPoint x="410" y="470" />
+              <mxPoint x="460" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -285,7 +286,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TOabpEEhNaMSyfxExnQs-1" value="外加工经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="440" y="358.75" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="449.98" y="450.25" width="90" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
