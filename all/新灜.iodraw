@@ -433,11 +433,10 @@
         <mxCell id="-MVk727PhS-SFFMMifHV-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-MVk727PhS-SFFMMifHV-33" target="-MVk727PhS-SFFMMifHV-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-MVk727PhS-SFFMMifHV-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-MVk727PhS-SFFMMifHV-45" target="-MVk727PhS-SFFMMifHV-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-MVk727PhS-SFFMMifHV-45" value="经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="439.98" y="553" width="80" height="40" as="geometry" />
+        <mxCell id="-MVk727PhS-SFFMMifHV-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="-MVk727PhS-SFFMMifHV-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="509.98" y="573" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-MVk727PhS-SFFMMifHV-46" target="-MVk727PhS-SFFMMifHV-54">
           <mxGeometry relative="1" as="geometry" />
@@ -505,11 +504,10 @@
         <mxCell id="-MVk727PhS-SFFMMifHV-75" value="纬纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="617.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-MVk727PhS-SFFMMifHV-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-MVk727PhS-SFFMMifHV-78" target="-MVk727PhS-SFFMMifHV-80">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-MVk727PhS-SFFMMifHV-78" value="新旧筘入库" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="476.98" y="347.75" width="90" height="42.5" as="geometry" />
+        <mxCell id="-MVk727PhS-SFFMMifHV-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="-MVk727PhS-SFFMMifHV-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="556.98" y="369" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-MVk727PhS-SFFMMifHV-80" target="-MVk727PhS-SFFMMifHV-81">
           <mxGeometry relative="1" as="geometry" />
