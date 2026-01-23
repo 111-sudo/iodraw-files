@@ -468,7 +468,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-60" value="织造" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="757.12" y="552.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="782.69" y="552.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-MVk727PhS-SFFMMifHV-62" target="-MVk727PhS-SFFMMifHV-71">
           <mxGeometry relative="1" as="geometry" />
