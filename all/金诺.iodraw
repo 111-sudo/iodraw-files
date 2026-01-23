@@ -219,7 +219,7 @@
           <mxGeometry x="1029" y="319.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-166" value="销售出库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="940" y="350.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="940" y="371" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-167" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ff8000;fontColor=#000000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1019" y="522" width="100" height="64.5" as="geometry" />
