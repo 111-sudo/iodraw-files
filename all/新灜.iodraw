@@ -178,15 +178,16 @@
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JI7UKNBIRY0i_7WP0AxC-136" target="JI7UKNBIRY0i_7WP0AxC-142" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JI7UKNBIRY0i_7WP0AxC-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JI7UKNBIRY0i_7WP0AxC-136" target="JI7UKNBIRY0i_7WP0AxC-163" edge="1">
+        <mxCell id="JI7UKNBIRY0i_7WP0AxC-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="794" y="529" />
-              <mxPoint x="868" y="529" />
-              <mxPoint x="868" y="250" />
-              <mxPoint x="940" y="250" />
-              <mxPoint x="940" y="251" />
+              <mxPoint x="791.29" y="534.97" />
+              <mxPoint x="865.29" y="534.97" />
+              <mxPoint x="865.29" y="255.97" />
+              <mxPoint x="908.29" y="255.97" />
             </Array>
+            <mxPoint x="791.6899999999998" y="518.47" as="sourcePoint" />
+            <mxPoint x="908.4100000000001" y="257.22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-136" value="经轴库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
