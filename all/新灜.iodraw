@@ -411,14 +411,14 @@
         <mxCell id="-MVk727PhS-SFFMMifHV-35" value="原料库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
           <mxGeometry x="305.41" y="432.5" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-MVk727PhS-SFFMMifHV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="-MVk727PhS-SFFMMifHV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-MVk727PhS-SFFMMifHV-39" target="-MVk727PhS-SFFMMifHV-60">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340.41" y="645" />
-              <mxPoint x="794.41" y="645" />
+              <mxPoint x="340" y="642" />
+              <mxPoint x="794" y="642" />
+              <mxPoint x="794" y="620" />
+              <mxPoint x="797" y="620" />
             </Array>
-            <mxPoint x="340.4100000000001" y="596" as="sourcePoint" />
-            <mxPoint x="797.1199999999999" y="596" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-MVk727PhS-SFFMMifHV-39" target="-MVk727PhS-SFFMMifHV-45">
