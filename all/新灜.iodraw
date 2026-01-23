@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="yJs9qlhEBJ-y-Ns0KCyD">
-    <mxGraphModel dx="808" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="568" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,15 +120,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TOabpEEhNaMSyfxExnQs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JI7UKNBIRY0i_7WP0AxC-108" target="TOabpEEhNaMSyfxExnQs-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="480" y="573" />
-              <mxPoint x="480" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TOabpEEhNaMSyfxExnQs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JI7UKNBIRY0i_7WP0AxC-108" target="JI7UKNBIRY0i_7WP0AxC-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOabpEEhNaMSyfxExnQs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JI7UKNBIRY0i_7WP0AxC-108" target="TOabpEEhNaMSyfxExnQs-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-108" value="原料领用" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
@@ -268,7 +263,7 @@
             <mxPoint x="490.00030303030326" y="338.5" as="sourcePoint" />
             <mxPoint x="613.2682352941179" y="240" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="489.97" y="240" />
+              <mxPoint x="490" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
