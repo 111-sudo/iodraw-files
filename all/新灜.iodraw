@@ -299,7 +299,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fDgheICK3HNYZGAunzm2" name="第 2 页">
-    <mxGraphModel dx="1909" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="913" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -519,7 +519,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-80" value="钢筘库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
-          <mxGeometry x="633.69" y="374" width="70" height="80" as="geometry" />
+          <mxGeometry x="573.48" y="374.5" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-81" value="钢筘报废" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="777.69" y="392.75" width="90" height="42.5" as="geometry" />
