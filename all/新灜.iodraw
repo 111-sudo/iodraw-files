@@ -282,7 +282,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TOabpEEhNaMSyfxExnQs-1" value="外加工经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="440" y="358.75" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="420" y="358.75" width="90" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
