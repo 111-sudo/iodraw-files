@@ -358,7 +358,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oJkDouzzKyJVuR5fgeIq-1" value="新旧筘入库" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="588.41" y="228.75" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="589.5" y="228.75" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="oJkDouzzKyJVuR5fgeIq-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oJkDouzzKyJVuR5fgeIq-2" target="oJkDouzzKyJVuR5fgeIq-3">
           <mxGeometry relative="1" as="geometry" />
