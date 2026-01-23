@@ -444,25 +444,14 @@
             <mxPoint x="486.4100000000001" y="512.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-MVk727PhS-SFFMMifHV-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-MVk727PhS-SFFMMifHV-45">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="600" y="354" />
-              <mxPoint x="600" y="354" />
-            </Array>
-            <mxPoint x="615" y="354" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="-MVk727PhS-SFFMMifHV-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-MVk727PhS-SFFMMifHV-45" target="-MVk727PhS-SFFMMifHV-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-45" value="经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="446.41" y="334" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-46" value="穿综" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="757.12" y="334" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-MVk727PhS-SFFMMifHV-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-MVk727PhS-SFFMMifHV-46">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="675" y="354" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-MVk727PhS-SFFMMifHV-50" target="-MVk727PhS-SFFMMifHV-57">
           <mxGeometry relative="1" as="geometry" />
@@ -553,15 +542,6 @@
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-75" value="纬纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="675.41" y="615" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-MVk727PhS-SFFMMifHV-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-MVk727PhS-SFFMMifHV-54">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="725" y="354" />
-              <mxPoint x="725" y="473" />
-            </Array>
-            <mxPoint x="675" y="354" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-MVk727PhS-SFFMMifHV-78" target="-MVk727PhS-SFFMMifHV-80">
           <mxGeometry relative="1" as="geometry" />
