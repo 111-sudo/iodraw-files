@@ -505,16 +505,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-78" value="新旧筘入库" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="466.59000000000003" y="363.75" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="466.59000000000003" y="445" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-MVk727PhS-SFFMMifHV-80" target="-MVk727PhS-SFFMMifHV-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-80" value="钢筘库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
-          <mxGeometry x="631" y="345" width="70" height="80" as="geometry" />
+          <mxGeometry x="631" y="426.25" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-81" value="钢筘报废" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="770" y="363.75" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="770" y="445" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-82" value="换筘" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="409" width="60" height="30" as="geometry" />
