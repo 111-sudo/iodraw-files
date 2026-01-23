@@ -399,6 +399,10 @@
         <mxCell id="-MVk727PhS-SFFMMifHV-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="-MVk727PhS-SFFMMifHV-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="476.9778571428571" y="245.7142857142859" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="477" y="270" />
+              <mxPoint x="355" y="270" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-32" value="创建订单&lt;div&gt;关联工艺&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
