@@ -204,10 +204,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-164" value="发货&lt;div&gt;（PDA）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="890" y="251.5" width="88" height="41" as="geometry" />
+          <mxGeometry x="890" y="318.25" width="88" height="41" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-165" value="客户" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1029" y="251.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="1029" y="319.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-166" value="销售出库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="940" y="350.5" width="60" height="30" as="geometry" />
