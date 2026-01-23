@@ -434,6 +434,9 @@
         <mxCell id="-MVk727PhS-SFFMMifHV-45" value="经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="420" y="553" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="-MVk727PhS-SFFMMifHV-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-MVk727PhS-SFFMMifHV-46" target="-MVk727PhS-SFFMMifHV-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-46" value="穿综" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="533.71" y="553" width="80" height="40" as="geometry" />
         </mxCell>
@@ -450,7 +453,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-54" value="经轴库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
-          <mxGeometry x="660" y="524.75" width="70" height="80" as="geometry" />
+          <mxGeometry x="665" y="532.5" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-MVk727PhS-SFFMMifHV-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-MVk727PhS-SFFMMifHV-60" target="-MVk727PhS-SFFMMifHV-62">
           <mxGeometry relative="1" as="geometry" />
