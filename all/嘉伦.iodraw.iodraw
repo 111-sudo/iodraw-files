@@ -130,7 +130,8 @@
         <mxCell id="9mCN74jettCW4xCvNIN8-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9mCN74jettCW4xCvNIN8-132" target="9mCN74jettCW4xCvNIN8-128" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="658" y="413.25" />
+              <mxPoint x="680" y="427" />
+              <mxPoint x="680" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
