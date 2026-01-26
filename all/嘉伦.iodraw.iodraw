@@ -95,7 +95,7 @@
         <mxCell id="9mCN74jettCW4xCvNIN8-120" value="领料申请" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="890" y="94.75" width="90" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="9mCN74jettCW4xCvNIN8-121" value="投入生产" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="9mCN74jettCW4xCvNIN8-121" value="物料出库" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1013" y="94.75" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9mCN74jettCW4xCvNIN8-125" target="9mCN74jettCW4xCvNIN8-129" edge="1">
