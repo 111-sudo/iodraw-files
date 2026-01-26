@@ -354,6 +354,9 @@
         <mxCell id="9mCN74jettCW4xCvNIN8-220" value="棉浆" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="438" y="164.25" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RqbBog9o7qVWXsrpl7Zj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RqbBog9o7qVWXsrpl7Zj-3" target="RqbBog9o7qVWXsrpl7Zj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RqbBog9o7qVWXsrpl7Zj-3" value="原料合同" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="287" y="256" width="90" height="40" as="geometry" />
         </mxCell>
@@ -365,6 +368,9 @@
         </mxCell>
         <mxCell id="RqbBog9o7qVWXsrpl7Zj-8" value="废布" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="850" y="550.75" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RqbBog9o7qVWXsrpl7Zj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RqbBog9o7qVWXsrpl7Zj-4" target="9mCN74jettCW4xCvNIN8-103">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
