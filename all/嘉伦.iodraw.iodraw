@@ -230,7 +230,7 @@
         <mxCell id="9mCN74jettCW4xCvNIN8-158" value="智能物联" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="172" y="219" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="9mCN74jettCW4xCvNIN8-159" value="车间LED" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
+        <mxCell id="9mCN74jettCW4xCvNIN8-159" value="数字大屏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="172" y="288" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-160" value="排班管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;" parent="1" vertex="1">
