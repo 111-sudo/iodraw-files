@@ -366,6 +366,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="AIaXNCLTqeZPuUF4xmYe-3" value="废布" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="885" y="573" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
