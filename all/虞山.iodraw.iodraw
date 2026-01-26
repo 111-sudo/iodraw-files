@@ -256,7 +256,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XrF1MFiw-P1BZqZ8SFKj-398" value="新旧筘入库" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="580" y="202" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="580" y="198.75" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="XrF1MFiw-P1BZqZ8SFKj-402" value="纬纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="584.25" width="60" height="30" as="geometry" />
@@ -270,7 +270,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XrF1MFiw-P1BZqZ8SFKj-404" value="外加工经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="442" y="202" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="442" y="198.75" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="XrF1MFiw-P1BZqZ8SFKj-411" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XrF1MFiw-P1BZqZ8SFKj-406" target="XrF1MFiw-P1BZqZ8SFKj-407" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -279,10 +279,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XrF1MFiw-P1BZqZ8SFKj-406" value="钢筘库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
-          <mxGeometry x="751" y="183.25" width="70" height="80" as="geometry" />
+          <mxGeometry x="751" y="180" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XrF1MFiw-P1BZqZ8SFKj-407" value="钢筘报废" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="880" y="202" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="880" y="198.75" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="XrF1MFiw-P1BZqZ8SFKj-408" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XrF1MFiw-P1BZqZ8SFKj-404" target="XrF1MFiw-P1BZqZ8SFKj-345" edge="1">
           <mxGeometry relative="1" as="geometry">
