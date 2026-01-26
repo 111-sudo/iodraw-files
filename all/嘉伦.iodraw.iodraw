@@ -20,7 +20,7 @@
           <mxGeometry x="287" y="170.25" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-101" value="原料请购" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="287" y="248" width="90" height="40" as="geometry" />
+          <mxGeometry x="287" y="231.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9mCN74jettCW4xCvNIN8-103" target="9mCN74jettCW4xCvNIN8-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -354,10 +354,10 @@
           <mxGeometry x="438" y="190.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RqbBog9o7qVWXsrpl7Zj-3" value="原料合同" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="277" y="310" width="90" height="40" as="geometry" />
+          <mxGeometry x="287" y="297" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RqbBog9o7qVWXsrpl7Zj-4" value="原料采购" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="297" y="361" width="90" height="40" as="geometry" />
+          <mxGeometry x="287" y="340" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
