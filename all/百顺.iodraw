@@ -154,7 +154,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-118" value="机物料库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
-          <mxGeometry x="773.48" y="110.12" width="70" height="80" as="geometry" />
+          <mxGeometry x="773.48" y="113.12" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JI7UKNBIRY0i_7WP0AxC-120" target="JI7UKNBIRY0i_7WP0AxC-121" edge="1">
           <mxGeometry relative="1" as="geometry" />
