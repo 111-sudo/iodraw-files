@@ -363,7 +363,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RqbBog9o7qVWXsrpl7Zj-1" value="生产任务" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="287" y="300" width="90" height="40" as="geometry" />
+          <mxGeometry x="287" y="316" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
