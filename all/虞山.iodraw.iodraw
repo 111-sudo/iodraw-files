@@ -8,7 +8,7 @@
           <mxGeometry x="172" y="97.25" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="XrF1MFiw-P1BZqZ8SFKj-310" value="生产任务单" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="287" y="203.25" width="95.63" height="42.5" as="geometry" />
+          <mxGeometry x="287" y="203.25" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XrF1MFiw-P1BZqZ8SFKj-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XrF1MFiw-P1BZqZ8SFKj-312" target="XrF1MFiw-P1BZqZ8SFKj-316" edge="1">
           <mxGeometry relative="1" as="geometry" />
