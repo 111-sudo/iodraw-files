@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9mCN74jettCW4xCvNIN8-96" value="机台监控" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
+        <mxCell id="9mCN74jettCW4xCvNIN8-96" value="机台监控" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="172" y="60" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9mCN74jettCW4xCvNIN8-98" target="9mCN74jettCW4xCvNIN8-100" edge="1">
@@ -222,25 +222,25 @@
         <mxCell id="9mCN74jettCW4xCvNIN8-156" value="不合格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="976.34" y="559.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9mCN74jettCW4xCvNIN8-157" value="看板系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
+        <mxCell id="9mCN74jettCW4xCvNIN8-157" value="看板系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="172" y="151" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="9mCN74jettCW4xCvNIN8-158" value="智能物联" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
+        <mxCell id="9mCN74jettCW4xCvNIN8-158" value="智能物联" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="172" y="219" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="9mCN74jettCW4xCvNIN8-159" value="数字大屏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
+        <mxCell id="9mCN74jettCW4xCvNIN8-159" value="数字大屏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="172" y="288" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="9mCN74jettCW4xCvNIN8-160" value="排班管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;" parent="1" vertex="1">
+        <mxCell id="9mCN74jettCW4xCvNIN8-160" value="排班管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="172" y="356" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="9mCN74jettCW4xCvNIN8-161" value="考勤管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;" parent="1" vertex="1">
+        <mxCell id="9mCN74jettCW4xCvNIN8-161" value="考勤管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="172" y="425" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="9mCN74jettCW4xCvNIN8-162" value="计件工资" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;" parent="1" vertex="1">
+        <mxCell id="9mCN74jettCW4xCvNIN8-162" value="计件工资" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="172" y="494" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="9mCN74jettCW4xCvNIN8-163" value="奖罚管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;" parent="1" vertex="1">
+        <mxCell id="9mCN74jettCW4xCvNIN8-163" value="奖罚管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="172" y="562.25" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-164" value="视觉检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
