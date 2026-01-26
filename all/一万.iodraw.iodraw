@@ -91,19 +91,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-37" value="倍捻" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="452" y="264" width="80" height="40" as="geometry" />
+          <mxGeometry x="452" y="267.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-38" value="穿综" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="746" y="264" width="80" height="40" as="geometry" />
+          <mxGeometry x="746" y="267.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dSKPMqexFD88YO8ZhlAx-39" target="dSKPMqexFD88YO8ZhlAx-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-39" value="分条" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="618" y="264" width="80" height="40" as="geometry" />
+          <mxGeometry x="618" y="267.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-40" value="蒸箱" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="546" y="264" width="80" height="40" as="geometry" />
+          <mxGeometry x="546" y="267.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dSKPMqexFD88YO8ZhlAx-41" target="dSKPMqexFD88YO8ZhlAx-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -167,10 +167,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-65" value="发货&lt;div&gt;（PDA）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="881" y="264" width="88" height="41" as="geometry" />
+          <mxGeometry x="881" y="266.25" width="88" height="41" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-66" value="客户" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1028" y="264" width="80" height="40" as="geometry" />
+          <mxGeometry x="1028" y="267.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-71" value="销售出库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="925" y="350.5" width="60" height="30" as="geometry" />
@@ -219,22 +219,22 @@
           <mxGeometry x="1128" y="73" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-93" value="设备维保" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="1128" y="157.25" width="90" height="45" as="geometry" />
+          <mxGeometry x="1128" y="143" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-94" value="检验管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="1128" y="225.25" width="90" height="45" as="geometry" />
+          <mxGeometry x="1128" y="213" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-95" value="条码追溯" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="1128" y="292.25" width="90" height="45" as="geometry" />
+          <mxGeometry x="1128" y="283" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-96" value="成本核算" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="1128" y="360.25" width="90" height="45" as="geometry" />
+          <mxGeometry x="1128" y="353" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-97" value="审批管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="1128" y="427.25" width="90" height="45" as="geometry" />
+          <mxGeometry x="1128" y="422" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-98" value="消息推送" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="1128" y="495.25" width="90" height="45" as="geometry" />
+          <mxGeometry x="1128" y="492" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-99" value="工艺管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="1128" y="562.25" width="90" height="45" as="geometry" />
