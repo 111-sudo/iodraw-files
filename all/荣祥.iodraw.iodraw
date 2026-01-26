@@ -351,6 +351,9 @@
         <mxCell id="sVXo7TKvG-6DuibSaUwl-2" value="生产任务单" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="295.41" y="249.5" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="sVXo7TKvG-6DuibSaUwl-3" value="废布" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="895" y="577.75" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
