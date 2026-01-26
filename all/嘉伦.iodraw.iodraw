@@ -55,7 +55,8 @@
             <mxPoint x="443" y="210.25" as="targetPoint" />
             <Array as="points">
               <mxPoint x="410" y="513" />
-              <mxPoint x="410" y="210" />
+              <mxPoint x="410" y="190" />
+              <mxPoint x="448" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -360,6 +361,9 @@
         <mxCell id="RqbBog9o7qVWXsrpl7Zj-3" value="原料合同" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="287" y="256" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RqbBog9o7qVWXsrpl7Zj-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RqbBog9o7qVWXsrpl7Zj-4" target="9mCN74jettCW4xCvNIN8-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RqbBog9o7qVWXsrpl7Zj-4" value="原料采购" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="287" y="316" width="90" height="40" as="geometry" />
         </mxCell>
@@ -368,11 +372,6 @@
         </mxCell>
         <mxCell id="RqbBog9o7qVWXsrpl7Zj-8" value="废布" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="850" y="564.75" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RqbBog9o7qVWXsrpl7Zj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="9mCN74jettCW4xCvNIN8-103">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="332" y="370" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
