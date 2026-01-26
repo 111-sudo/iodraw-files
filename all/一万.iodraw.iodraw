@@ -343,10 +343,9 @@
         <mxCell id="P_0v5ncX9lnKIeXLsbvL-10" value="原料采购" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="287" y="327.25" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P_0v5ncX9lnKIeXLsbvL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dSKPMqexFD88YO8ZhlAx-37" target="dSKPMqexFD88YO8ZhlAx-41">
+        <mxCell id="P_0v5ncX9lnKIeXLsbvL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dSKPMqexFD88YO8ZhlAx-37" target="dSKPMqexFD88YO8ZhlAx-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="304" />
               <mxPoint x="500" y="347" />
               <mxPoint x="607" y="347" />
             </Array>
