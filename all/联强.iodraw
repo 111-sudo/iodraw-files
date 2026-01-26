@@ -13,11 +13,11 @@
         <mxCell id="dSKPMqexFD88YO8ZhlAx-2" value="客户下单" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="287" y="98.75" width="90" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="dSKPMqexFD88YO8ZhlAx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dSKPMqexFD88YO8ZhlAx-3" target="dSKPMqexFD88YO8ZhlAx-4" edge="1">
+        <mxCell id="dSKPMqexFD88YO8ZhlAx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VrZtyHOFMgVnb9XwM2cj-4" target="dSKPMqexFD88YO8ZhlAx-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-3" value="创建订单&lt;div&gt;关联工艺&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="281" y="173.25" width="90" height="40" as="geometry" />
+          <mxGeometry x="287" y="173.25" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-4" value="原料采购" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="287" y="289.25" width="90" height="40" as="geometry" />
@@ -354,8 +354,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="VrZtyHOFMgVnb9XwM2cj-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dSKPMqexFD88YO8ZhlAx-3" target="VrZtyHOFMgVnb9XwM2cj-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="332" y="213" as="sourcePoint" />
+            <mxPoint x="332" y="289" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VrZtyHOFMgVnb9XwM2cj-4" value="生产任务单" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="281" y="234.5" width="90" height="40" as="geometry" />
+          <mxGeometry x="287" y="220" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
