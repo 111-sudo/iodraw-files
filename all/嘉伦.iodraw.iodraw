@@ -119,7 +119,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-128" value="分条" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="618" y="280.19" width="80" height="40" as="geometry" />
+          <mxGeometry x="624" y="280.19" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-129" value="蒸箱" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="538" y="280.19" width="80" height="40" as="geometry" />
