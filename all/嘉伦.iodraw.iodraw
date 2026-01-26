@@ -136,7 +136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-132" value="三元库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="572" y="387.25" width="70" height="80" as="geometry" />
+          <mxGeometry x="548" y="387.25" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9mCN74jettCW4xCvNIN8-111" target="9mCN74jettCW4xCvNIN8-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -371,7 +371,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="498" y="370" />
-              <mxPoint x="572" y="370" />
+              <mxPoint x="510" y="370" />
+              <mxPoint x="510" y="402" />
             </Array>
           </mxGeometry>
         </mxCell>
