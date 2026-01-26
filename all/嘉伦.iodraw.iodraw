@@ -204,6 +204,9 @@
         <mxCell id="9mCN74jettCW4xCvNIN8-152" value="销售出库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="939.98" y="337" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RqbBog9o7qVWXsrpl7Zj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9mCN74jettCW4xCvNIN8-153" target="RqbBog9o7qVWXsrpl7Zj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-153" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ff8000;fontColor=#000000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1008" y="495" width="100" height="64.5" as="geometry" />
         </mxCell>
@@ -361,7 +364,7 @@
           <mxGeometry x="287" y="316" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RqbBog9o7qVWXsrpl7Zj-8" value="废布" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="850" y="564.75" width="80" height="40" as="geometry" />
+          <mxGeometry x="850" y="574" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RqbBog9o7qVWXsrpl7Zj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.66;exitY=1.019;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="9mCN74jettCW4xCvNIN8-125" target="9mCN74jettCW4xCvNIN8-132">
           <mxGeometry relative="1" as="geometry">
