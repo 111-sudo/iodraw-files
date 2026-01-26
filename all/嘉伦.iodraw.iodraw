@@ -289,7 +289,7 @@
         <mxCell id="9mCN74jettCW4xCvNIN8-213" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9mCN74jettCW4xCvNIN8-198" target="9mCN74jettCW4xCvNIN8-199" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9mCN74jettCW4xCvNIN8-198" value="钢筘库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
+        <mxCell id="9mCN74jettCW4xCvNIN8-198" value="钢筘库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="751" y="170.25" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-199" value="钢筘报废" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
