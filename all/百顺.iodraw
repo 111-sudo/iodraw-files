@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-1" value="机台监控" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="184" y="174.37" width="90" height="45" as="geometry" />
+          <mxGeometry x="184" y="190" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-60" value="数字大屏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="184" y="310" width="90" height="45" as="geometry" />
