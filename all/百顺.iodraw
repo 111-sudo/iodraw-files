@@ -308,11 +308,11 @@
         <mxCell id="TXHjoPJFeXvaD64t4jRX-11" value="原料合同" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="295.41" y="316.12" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TXHjoPJFeXvaD64t4jRX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TXHjoPJFeXvaD64t4jRX-12" target="JI7UKNBIRY0i_7WP0AxC-103">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TXHjoPJFeXvaD64t4jRX-12" value="原料采购" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="295.41" y="376.12" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TXHjoPJFeXvaD64t4jRX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TXHjoPJFeXvaD64t4jRX-12" target="JI7UKNBIRY0i_7WP0AxC-103">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
