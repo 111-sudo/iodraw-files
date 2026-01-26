@@ -136,7 +136,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SQn5FkT9BBUanPA5cZrc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dI35EAaob4jDQp5fQXdu-145" target="dI35EAaob4jDQp5fQXdu-156">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="617" y="554" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-145" value="三元库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="582" y="414.25" width="70" height="80" as="geometry" />
@@ -167,17 +171,6 @@
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="dI35EAaob4jDQp5fQXdu-156" target="dI35EAaob4jDQp5fQXdu-158" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dI35EAaob4jDQp5fQXdu-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="868" y="554" />
-              <mxPoint x="868" y="623" />
-              <mxPoint x="1069" y="623" />
-            </Array>
-            <mxPoint x="826.84" y="554.24" as="sourcePoint" />
-            <mxPoint x="1069.0062111801242" y="586.49599378882" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-156" value="织造" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="755.5" y="534.25" width="80" height="40" as="geometry" />
