@@ -19,7 +19,7 @@
         <mxCell id="9mCN74jettCW4xCvNIN8-100" value="创建订单&lt;div&gt;关联工艺&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="287" y="130" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RqbBog9o7qVWXsrpl7Zj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9mCN74jettCW4xCvNIN8-101" target="RqbBog9o7qVWXsrpl7Zj-3">
+        <mxCell id="RqbBog9o7qVWXsrpl7Zj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9mCN74jettCW4xCvNIN8-101" target="RqbBog9o7qVWXsrpl7Zj-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-101" value="原料请购" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
@@ -203,7 +203,7 @@
         <mxCell id="9mCN74jettCW4xCvNIN8-152" value="销售出库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="939.98" y="327.94" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RqbBog9o7qVWXsrpl7Zj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9mCN74jettCW4xCvNIN8-153" target="RqbBog9o7qVWXsrpl7Zj-8">
+        <mxCell id="RqbBog9o7qVWXsrpl7Zj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9mCN74jettCW4xCvNIN8-153" target="RqbBog9o7qVWXsrpl7Zj-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1058" y="587" />
@@ -354,22 +354,22 @@
         <mxCell id="9mCN74jettCW4xCvNIN8-220" value="棉浆" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="438" y="164.25" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RqbBog9o7qVWXsrpl7Zj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RqbBog9o7qVWXsrpl7Zj-3" target="RqbBog9o7qVWXsrpl7Zj-4">
+        <mxCell id="RqbBog9o7qVWXsrpl7Zj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RqbBog9o7qVWXsrpl7Zj-3" target="RqbBog9o7qVWXsrpl7Zj-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RqbBog9o7qVWXsrpl7Zj-3" value="原料合同" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="RqbBog9o7qVWXsrpl7Zj-3" value="原料合同" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="287" y="256" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RqbBog9o7qVWXsrpl7Zj-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RqbBog9o7qVWXsrpl7Zj-4" target="9mCN74jettCW4xCvNIN8-103">
+        <mxCell id="RqbBog9o7qVWXsrpl7Zj-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RqbBog9o7qVWXsrpl7Zj-4" target="9mCN74jettCW4xCvNIN8-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RqbBog9o7qVWXsrpl7Zj-4" value="原料采购" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="RqbBog9o7qVWXsrpl7Zj-4" value="原料采购" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="287" y="316" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RqbBog9o7qVWXsrpl7Zj-8" value="废布" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="RqbBog9o7qVWXsrpl7Zj-8" value="废布" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="895" y="567.25" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RqbBog9o7qVWXsrpl7Zj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.66;exitY=1.019;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="9mCN74jettCW4xCvNIN8-125" target="9mCN74jettCW4xCvNIN8-132">
+        <mxCell id="RqbBog9o7qVWXsrpl7Zj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.66;exitY=1.019;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="9mCN74jettCW4xCvNIN8-125" target="9mCN74jettCW4xCvNIN8-132" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="491" y="358" />
