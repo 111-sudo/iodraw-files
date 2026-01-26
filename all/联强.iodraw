@@ -109,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-37" value="倍捻" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="437" y="289.25" width="80" height="40" as="geometry" />
+          <mxGeometry x="447" y="289.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-38" value="穿综" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="751" y="289.25" width="80" height="40" as="geometry" />
