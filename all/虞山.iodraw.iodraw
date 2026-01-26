@@ -282,9 +282,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XrF1MFiw-P1BZqZ8SFKj-409" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XrF1MFiw-P1BZqZ8SFKj-404" target="XrF1MFiw-P1BZqZ8SFKj-398" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XrF1MFiw-P1BZqZ8SFKj-404" value="外加工经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="442" y="202" width="90" height="42.5" as="geometry" />
         </mxCell>
