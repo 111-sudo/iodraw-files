@@ -212,7 +212,7 @@
           <mxGeometry x="1008" y="455.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-78" value="不合格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="998.84" y="573.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="985" y="568.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-85" value="大数据看板" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="172" y="149" width="90" height="45" as="geometry" />
@@ -337,7 +337,7 @@
           <mxGeometry x="1102.8600000000001" y="637.34" width="93.27" height="93.27" as="geometry" />
         </mxCell>
         <mxCell id="VrZtyHOFMgVnb9XwM2cj-1" value="废布" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="885" y="568.75" width="80" height="40" as="geometry" />
+          <mxGeometry x="885" y="577.75" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
