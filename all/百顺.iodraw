@@ -203,7 +203,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-144" value="检验" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="897.41" y="552.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="897.48" y="552.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-145" value="纬纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="672.91" y="545.5" width="60" height="30" as="geometry" />
@@ -215,13 +215,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-148" value="白坯库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
-          <mxGeometry x="902.41" y="432.5" width="70" height="80" as="geometry" />
+          <mxGeometry x="902.48" y="432.5" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JI7UKNBIRY0i_7WP0AxC-150" target="JI7UKNBIRY0i_7WP0AxC-151" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-150" value="发货&lt;div&gt;（PDA）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="893.41" y="340" width="88" height="41" as="geometry" />
+          <mxGeometry x="893.48" y="340" width="88" height="41" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-151" value="客户" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1024.8" y="340.5" width="80" height="40" as="geometry" />
@@ -285,7 +285,7 @@
           <mxGeometry x="1117.935" y="683.41" width="96.63" height="96.63" as="geometry" />
         </mxCell>
         <mxCell id="TXHjoPJFeXvaD64t4jRX-1" value="废布" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="897.41" y="618" width="80" height="40" as="geometry" />
+          <mxGeometry x="897.48" y="618" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TXHjoPJFeXvaD64t4jRX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TXHjoPJFeXvaD64t4jRX-5" target="TXHjoPJFeXvaD64t4jRX-7">
           <mxGeometry relative="1" as="geometry" />
@@ -327,7 +327,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TXHjoPJFeXvaD64t4jRX-18" value="维保登记" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="891.39" y="227.62" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="892.48" y="227.62" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="TXHjoPJFeXvaD64t4jRX-19" value="维保报表" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1019.8" y="227.62" width="90" height="42.5" as="geometry" />
