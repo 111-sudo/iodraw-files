@@ -17,7 +17,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P_0v5ncX9lnKIeXLsbvL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dSKPMqexFD88YO8ZhlAx-6" target="dSKPMqexFD88YO8ZhlAx-54">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="286" />
+              <mxPoint x="300" y="600" />
+              <mxPoint x="786" y="600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-6" value="原料领用" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="310" y="266" width="90" height="40" as="geometry" />
