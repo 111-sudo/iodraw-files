@@ -64,10 +64,10 @@
           <mxGeometry x="287" y="507.25" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-110" value="络丝" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="422" y="507.25" width="80" height="40" as="geometry" />
+          <mxGeometry x="438" y="507.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-111" value="抱瓶库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
-          <mxGeometry x="432" y="390" width="70" height="80" as="geometry" />
+          <mxGeometry x="443" y="387.25" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9mCN74jettCW4xCvNIN8-110" target="9mCN74jettCW4xCvNIN8-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -138,12 +138,8 @@
         <mxCell id="9mCN74jettCW4xCvNIN8-132" value="三元库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="543" y="387.25" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9mCN74jettCW4xCvNIN8-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.36;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9mCN74jettCW4xCvNIN8-111" target="9mCN74jettCW4xCvNIN8-125" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="467" y="387" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="9mCN74jettCW4xCvNIN8-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9mCN74jettCW4xCvNIN8-111" target="9mCN74jettCW4xCvNIN8-125" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9mCN74jettCW4xCvNIN8-129" target="9mCN74jettCW4xCvNIN8-132" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -374,7 +370,7 @@
         <mxCell id="RqbBog9o7qVWXsrpl7Zj-8" value="废布" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="850" y="564.75" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RqbBog9o7qVWXsrpl7Zj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9mCN74jettCW4xCvNIN8-125" target="9mCN74jettCW4xCvNIN8-132">
+        <mxCell id="RqbBog9o7qVWXsrpl7Zj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9mCN74jettCW4xCvNIN8-125" target="9mCN74jettCW4xCvNIN8-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
