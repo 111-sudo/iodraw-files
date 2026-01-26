@@ -362,7 +362,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SQn5FkT9BBUanPA5cZrc-5" value="装机抽号" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="297" y="318" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="307" y="138.75" width="90" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
