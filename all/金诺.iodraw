@@ -17,11 +17,13 @@
         <mxCell id="dI35EAaob4jDQp5fQXdu-110" value="机台监控" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="184" y="120" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="dI35EAaob4jDQp5fQXdu-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dI35EAaob4jDQp5fQXdu-116" target="dI35EAaob4jDQp5fQXdu-120" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dI35EAaob4jDQp5fQXdu-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dI35EAaob4jDQp5fQXdu-116" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="342.0000000000002" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-116" value="原料库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
-          <mxGeometry x="307" y="414.25" width="70" height="80" as="geometry" />
+          <mxGeometry x="307" y="210" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="dI35EAaob4jDQp5fQXdu-123" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -359,7 +361,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SQn5FkT9BBUanPA5cZrc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQn5FkT9BBUanPA5cZrc-5" target="dI35EAaob4jDQp5fQXdu-138">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="160" />
+              <mxPoint x="430" y="339" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="SQn5FkT9BBUanPA5cZrc-5" value="装机抽号" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="307" y="138.75" width="90" height="42.5" as="geometry" />
