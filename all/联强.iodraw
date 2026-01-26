@@ -169,15 +169,6 @@
         <mxCell id="dSKPMqexFD88YO8ZhlAx-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="dSKPMqexFD88YO8ZhlAx-54" target="dSKPMqexFD88YO8ZhlAx-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dSKPMqexFD88YO8ZhlAx-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="dSKPMqexFD88YO8ZhlAx-54" target="dSKPMqexFD88YO8ZhlAx-72" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="857" y="536.25" />
-              <mxPoint x="857" y="605.25" />
-              <mxPoint x="1058" y="605.25" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-54" value="织造" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="751" y="516.25" width="80" height="40" as="geometry" />
         </mxCell>
