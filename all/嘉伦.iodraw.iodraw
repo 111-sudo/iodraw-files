@@ -50,13 +50,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9mCN74jettCW4xCvNIN8-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9mCN74jettCW4xCvNIN8-107" target="9mCN74jettCW4xCvNIN8-220" edge="1">
+        <mxCell id="9mCN74jettCW4xCvNIN8-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9mCN74jettCW4xCvNIN8-107" target="9mCN74jettCW4xCvNIN8-220" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="443" y="210.25" as="targetPoint" />
             <Array as="points">
               <mxPoint x="410" y="527" />
               <mxPoint x="410" y="190" />
-              <mxPoint x="448" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
