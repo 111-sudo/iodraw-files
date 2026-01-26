@@ -227,7 +227,7 @@
         <mxCell id="dSKPMqexFD88YO8ZhlAx-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dSKPMqexFD88YO8ZhlAx-119" target="dSKPMqexFD88YO8ZhlAx-120" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dSKPMqexFD88YO8ZhlAx-119" value="设备台账" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="dSKPMqexFD88YO8ZhlAx-119" value="维保基础" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="592" y="201.25" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dSKPMqexFD88YO8ZhlAx-120" target="dSKPMqexFD88YO8ZhlAx-123" edge="1">
