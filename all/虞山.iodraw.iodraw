@@ -311,7 +311,7 @@
         <mxCell id="XrF1MFiw-P1BZqZ8SFKj-416" value="换筘" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="810" y="351" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XrF1MFiw-P1BZqZ8SFKj-417" value="创建订单&lt;div&gt;关联工艺&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="XrF1MFiw-P1BZqZ8SFKj-417" value="&lt;br&gt;&lt;div&gt;关联工艺&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="287" y="202" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="XrF1MFiw-P1BZqZ8SFKj-382" value="" style="group" parent="1" vertex="1" connectable="0">
