@@ -165,7 +165,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-139" value="倒筒" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="538" y="507.25" width="80" height="40" as="geometry" />
+          <mxGeometry x="541" y="507.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9mCN74jettCW4xCvNIN8-142" target="9mCN74jettCW4xCvNIN8-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -373,8 +373,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="491" y="358" />
-              <mxPoint x="580" y="358" />
-              <mxPoint x="580" y="387" />
+              <mxPoint x="581" y="358" />
             </Array>
           </mxGeometry>
         </mxCell>
