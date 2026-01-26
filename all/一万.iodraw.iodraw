@@ -176,7 +176,11 @@
           <mxGeometry x="925" y="350.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P_0v5ncX9lnKIeXLsbvL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="dSKPMqexFD88YO8ZhlAx-72" target="P_0v5ncX9lnKIeXLsbvL-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1058" y="600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-72" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ff8000;fontColor=#000000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1008" y="498.25" width="100" height="64.5" as="geometry" />
@@ -188,7 +192,7 @@
           <mxGeometry x="1008" y="449.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-78" value="不合格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="960" y="562.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="973" y="573" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-85" value="看板系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="172" y="157.25" width="90" height="45" as="geometry" />
