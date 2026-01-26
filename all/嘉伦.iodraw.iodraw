@@ -167,15 +167,6 @@
         <mxCell id="9mCN74jettCW4xCvNIN8-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9mCN74jettCW4xCvNIN8-142" target="9mCN74jettCW4xCvNIN8-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9mCN74jettCW4xCvNIN8-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9mCN74jettCW4xCvNIN8-142" target="9mCN74jettCW4xCvNIN8-153" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="860" y="513" />
-              <mxPoint x="860" y="582" />
-              <mxPoint x="1058" y="582" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9mCN74jettCW4xCvNIN8-142" value="织造" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="746" y="493.25" width="80" height="40" as="geometry" />
         </mxCell>
@@ -360,9 +351,6 @@
           <mxGeometry x="287" y="327" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RqbBog9o7qVWXsrpl7Zj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="1" source="9mCN74jettCW4xCvNIN8-125" target="9mCN74jettCW4xCvNIN8-132">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RqbBog9o7qVWXsrpl7Zj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9mCN74jettCW4xCvNIN8-129" target="9mCN74jettCW4xCvNIN8-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
