@@ -288,13 +288,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TXHjoPJFeXvaD64t4jRX-5" value="客户下单" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="454.98" y="130" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="295.41" y="128.87" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="TXHjoPJFeXvaD64t4jRX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TXHjoPJFeXvaD64t4jRX-7" target="TXHjoPJFeXvaD64t4jRX-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TXHjoPJFeXvaD64t4jRX-7" value="创建订单&lt;div&gt;关联工艺&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="295.41" y="160" width="90" height="40" as="geometry" />
+          <mxGeometry x="295.41" y="190.12" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TXHjoPJFeXvaD64t4jRX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TXHjoPJFeXvaD64t4jRX-9" target="TXHjoPJFeXvaD64t4jRX-11">
           <mxGeometry relative="1" as="geometry" />
