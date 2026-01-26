@@ -363,7 +363,7 @@
           <mxGeometry x="1112.26" y="674.68" width="94.48" height="94.08" as="geometry" />
         </mxCell>
         <mxCell id="SQn5FkT9BBUanPA5cZrc-2" value="废布" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="897.48" y="618" width="80" height="40" as="geometry" />
+          <mxGeometry x="894" y="602.5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
