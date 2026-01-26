@@ -56,10 +56,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-7" value="加弹" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="377" y="516.25" width="80" height="40" as="geometry" />
+          <mxGeometry x="371" y="516.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-8" value="络丝" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="457" y="516.25" width="80" height="40" as="geometry" />
+          <mxGeometry x="447" y="516.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dSKPMqexFD88YO8ZhlAx-9" value="抱瓶库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
           <mxGeometry x="462" y="396.25" width="70" height="80" as="geometry" />
