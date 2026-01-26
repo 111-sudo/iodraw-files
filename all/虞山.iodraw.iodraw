@@ -122,12 +122,12 @@
         <mxCell id="AIaXNCLTqeZPuUF4xmYe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XrF1MFiw-P1BZqZ8SFKj-341" target="XrF1MFiw-P1BZqZ8SFKj-351" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="578" y="544" />
+              <mxPoint x="590" y="544" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XrF1MFiw-P1BZqZ8SFKj-341" value="三元库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="543" y="407.25" width="70" height="80" as="geometry" />
+          <mxGeometry x="555" y="407.25" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XrF1MFiw-P1BZqZ8SFKj-342" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XrF1MFiw-P1BZqZ8SFKj-320" target="XrF1MFiw-P1BZqZ8SFKj-334" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -351,7 +351,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="500" y="378" />
-              <mxPoint x="578" y="378" />
+              <mxPoint x="590" y="378" />
             </Array>
           </mxGeometry>
         </mxCell>
