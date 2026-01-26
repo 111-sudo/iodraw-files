@@ -361,13 +361,13 @@
         <mxCell id="SQn5FkT9BBUanPA5cZrc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SQn5FkT9BBUanPA5cZrc-5" target="dI35EAaob4jDQp5fQXdu-138" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="430" y="160" />
+              <mxPoint x="430" y="250" />
               <mxPoint x="430" y="339" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SQn5FkT9BBUanPA5cZrc-5" value="装机抽号" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="316" y="240" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="316" y="228.75" width="90" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
