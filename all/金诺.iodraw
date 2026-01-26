@@ -53,11 +53,6 @@
         <mxCell id="dI35EAaob4jDQp5fQXdu-124" value="抱瓶库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
           <mxGeometry x="464" y="414.25" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dI35EAaob4jDQp5fQXdu-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="dI35EAaob4jDQp5fQXdu-116" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="342" y="359.25" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="dI35EAaob4jDQp5fQXdu-123" target="dI35EAaob4jDQp5fQXdu-124" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -362,6 +357,9 @@
               <mxPoint x="588" y="388" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SQn5FkT9BBUanPA5cZrc-5" value="外加工经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="464" y="238.75" width="90" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
