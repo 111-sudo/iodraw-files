@@ -333,7 +333,7 @@
           <mxGeometry x="888.98" y="339.12" width="88" height="41" as="geometry" />
         </mxCell>
         <mxCell id="IbFBQecL4oguA5gNR4hN-40" value="客户" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1027.93" y="359.25" width="80" height="40" as="geometry" />
+          <mxGeometry x="1029.8" y="340.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IbFBQecL4oguA5gNR4hN-41" value="销售出库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="938.9799999999999" y="391.87" width="60" height="30" as="geometry" />
