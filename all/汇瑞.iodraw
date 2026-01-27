@@ -39,16 +39,6 @@
         <mxCell id="lKTR6XNcudCmPzx1C0tY-103" value="原料库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="317" y="424.25" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lKTR6XNcudCmPzx1C0tY-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="lKTR6XNcudCmPzx1C0tY-108" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="352" y="584.25" as="sourcePoint" />
-            <mxPoint x="517" y="584.25" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="352" y="613" />
-              <mxPoint x="497" y="613" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lKTR6XNcudCmPzx1C0tY-107" target="lKTR6XNcudCmPzx1C0tY-141" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -170,17 +160,6 @@
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="lKTR6XNcudCmPzx1C0tY-141" target="lKTR6XNcudCmPzx1C0tY-143" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lKTR6XNcudCmPzx1C0tY-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="878" y="564" />
-              <mxPoint x="878" y="633" />
-              <mxPoint x="1079" y="633" />
-            </Array>
-            <mxPoint x="836.84" y="564.24" as="sourcePoint" />
-            <mxPoint x="1079.0062111801242" y="596.49599378882" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-141" value="织造" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="765.5" y="544.25" width="80" height="40" as="geometry" />
