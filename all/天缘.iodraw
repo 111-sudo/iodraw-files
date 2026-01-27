@@ -244,14 +244,6 @@
         <mxCell id="IbFBQecL4oguA5gNR4hN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IbFBQecL4oguA5gNR4hN-16" target="IbFBQecL4oguA5gNR4hN-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IbFBQecL4oguA5gNR4hN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IbFBQecL4oguA5gNR4hN-16" target="IbFBQecL4oguA5gNR4hN-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1319" y="311.87" />
-              <mxPoint x="1513" y="311.87" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IbFBQecL4oguA5gNR4hN-16" value="倍捻" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1275" y="331.12" width="80" height="40" as="geometry" />
         </mxCell>
@@ -373,20 +365,6 @@
             <Array as="points">
               <mxPoint x="1556" y="350.87" />
               <mxPoint x="1556" y="465.87" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IbFBQecL4oguA5gNR4hN-49" value="外加工经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="240.62" width="90" height="42.5" as="geometry" />
-        </mxCell>
-        <mxCell id="IbFBQecL4oguA5gNR4hN-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IbFBQecL4oguA5gNR4hN-49" target="IbFBQecL4oguA5gNR4hN-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1303" y="266.37" as="sourcePoint" />
-            <mxPoint x="1584" y="465.87" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1319" y="301.87" />
-              <mxPoint x="1556" y="301.87" />
-              <mxPoint x="1556" y="481.87" />
             </Array>
           </mxGeometry>
         </mxCell>
