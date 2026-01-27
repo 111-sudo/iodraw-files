@@ -194,6 +194,13 @@
         <mxCell id="lKTR6XNcudCmPzx1C0tY-151" value="销售出库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="360.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2W0mbyY-l9XR30uF1X6N-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKTR6XNcudCmPzx1C0tY-152" target="2W0mbyY-l9XR30uF1X6N-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1079" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-152" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ff8000;fontColor=#000000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1029" y="532" width="100" height="64.5" as="geometry" />
         </mxCell>
