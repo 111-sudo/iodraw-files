@@ -121,10 +121,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-127" value="分条" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="638" y="329.25" width="80" height="40" as="geometry" />
+          <mxGeometry x="663" y="329.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-128" value="蒸箱" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="558" y="329.25" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="329.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lKTR6XNcudCmPzx1C0tY-131" target="lKTR6XNcudCmPzx1C0tY-127" edge="1">
           <mxGeometry relative="1" as="geometry">
