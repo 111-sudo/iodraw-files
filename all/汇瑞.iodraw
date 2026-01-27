@@ -259,7 +259,7 @@
           <mxGeometry x="1150" y="610" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-171" value="纬纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="693.98" y="599.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="684.98" y="604.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lKTR6XNcudCmPzx1C0tY-127" target="lKTR6XNcudCmPzx1C0tY-135" edge="1">
           <mxGeometry relative="1" as="geometry">
