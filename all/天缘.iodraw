@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="yJs9qlhEBJ-y-Ns0KCyD">
-    <mxGraphModel dx="2100" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,18 +232,6 @@
         <mxCell id="TXHjoPJFeXvaD64t4jRX-19" value="维保报表" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1666.32" y="100" width="90" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="IbFBQecL4oguA5gNR4hN-2" value="络丝" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="546.12" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="IbFBQecL4oguA5gNR4hN-3" value="抱瓶库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="426.12" width="70" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="IbFBQecL4oguA5gNR4hN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IbFBQecL4oguA5gNR4hN-2" target="IbFBQecL4oguA5gNR4hN-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IbFBQecL4oguA5gNR4hN-16" value="倍捻" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="331.12" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="IbFBQecL4oguA5gNR4hN-17" value="穿综" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="768.53" y="340.12" width="80" height="40" as="geometry" />
         </mxCell>
@@ -273,9 +261,6 @@
         </mxCell>
         <mxCell id="IbFBQecL4oguA5gNR4hN-23" value="三元库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="561.9799999999999" y="438.12" width="70" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="IbFBQecL4oguA5gNR4hN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IbFBQecL4oguA5gNR4hN-3" target="IbFBQecL4oguA5gNR4hN-16">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IbFBQecL4oguA5gNR4hN-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IbFBQecL4oguA5gNR4hN-20" target="IbFBQecL4oguA5gNR4hN-23">
           <mxGeometry relative="1" as="geometry" />
