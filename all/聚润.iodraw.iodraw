@@ -189,7 +189,7 @@
           <mxGeometry x="677" y="596.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-191" value="外加工经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="441.5" y="316.75" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="441.5" y="291.25" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-198" value="创建订单&lt;div&gt;关联工艺&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="297" y="249" width="90" height="42.5" as="geometry" />
