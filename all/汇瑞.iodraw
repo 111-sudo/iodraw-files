@@ -113,6 +113,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="2W0mbyY-l9XR30uF1X6N-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lKTR6XNcudCmPzx1C0tY-124" target="lKTR6XNcudCmPzx1C0tY-131">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="369" />
+              <mxPoint x="510" y="397" />
+              <mxPoint x="598" y="397" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-124" value="倍捻" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="457" y="329.25" width="80" height="40" as="geometry" />
         </mxCell>
