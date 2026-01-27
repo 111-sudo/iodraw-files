@@ -233,16 +233,16 @@
           <mxGeometry x="1666.32" y="100" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="IbFBQecL4oguA5gNR4hN-17" value="穿综" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="768.53" y="340.12" width="80" height="40" as="geometry" />
+          <mxGeometry x="768.53" y="340.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IbFBQecL4oguA5gNR4hN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IbFBQecL4oguA5gNR4hN-19" target="IbFBQecL4oguA5gNR4hN-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IbFBQecL4oguA5gNR4hN-19" value="分条" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="655.9799999999999" y="340.12" width="80" height="40" as="geometry" />
+          <mxGeometry x="655.9799999999999" y="340.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IbFBQecL4oguA5gNR4hN-20" value="蒸箱" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="556.9799999999999" y="340.12" width="80" height="40" as="geometry" />
+          <mxGeometry x="556.9799999999999" y="340.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IbFBQecL4oguA5gNR4hN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IbFBQecL4oguA5gNR4hN-23" target="IbFBQecL4oguA5gNR4hN-19">
           <mxGeometry relative="1" as="geometry">
@@ -315,7 +315,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IbFBQecL4oguA5gNR4hN-39" value="发货&lt;div&gt;（PDA）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="888.98" y="339.12" width="88" height="41" as="geometry" />
+          <mxGeometry x="888.98" y="340" width="88" height="41" as="geometry" />
         </mxCell>
         <mxCell id="IbFBQecL4oguA5gNR4hN-40" value="客户" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1029.8" y="340.5" width="80" height="40" as="geometry" />
