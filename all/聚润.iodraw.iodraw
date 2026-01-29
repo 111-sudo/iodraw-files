@@ -66,7 +66,7 @@
           <mxGeometry x="1109.47" y="681.69" width="100.07" height="100.07" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-37" value="机台监控" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="184" y="150" width="98" height="49" as="geometry" />
+          <mxGeometry x="184" y="150" width="105" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7cwuhs9zK4UwywRmFL9I-39" target="7cwuhs9zK4UwywRmFL9I-41">
           <mxGeometry relative="1" as="geometry" />
