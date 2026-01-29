@@ -176,7 +176,7 @@
           <mxGeometry x="677" y="596.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-191" value="外加工经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="441.5" y="291.25" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="630" y="300.5" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-199" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="182" y="679.3858267716536" width="272.98" height="123.44881889763778" as="geometry" />
