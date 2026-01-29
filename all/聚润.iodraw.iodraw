@@ -138,10 +138,10 @@
           <mxGeometry x="1124" y="282" width="105" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-59" value="条码追溯" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=1;flipV=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1124" y="347" width="98" height="49" as="geometry" />
+          <mxGeometry x="1124" y="347" width="105" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-60" value="成本核算" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=1;flipV=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1124" y="413" width="98" height="49" as="geometry" />
+          <mxGeometry x="1124" y="413" width="105" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-61" value="审批管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=1;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="1125" y="479" width="98" height="49" as="geometry" />
@@ -251,6 +251,9 @@
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-93" value="物料出库" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="993" y="89" width="103" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="7cwuhs9zK4UwywRmFL9I-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7cwuhs9zK4UwywRmFL9I-60" target="7cwuhs9zK4UwywRmFL9I-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
