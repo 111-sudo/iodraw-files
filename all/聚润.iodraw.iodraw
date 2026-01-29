@@ -129,7 +129,7 @@
           <mxGeometry x="184" y="610" width="98" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-56" value="视觉检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=1;flipV=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1124" y="150" width="98" height="49" as="geometry" />
+          <mxGeometry x="1124" y="150" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-57" value="设备维保" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=1;flipV=0;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1124" y="216" width="98" height="49" as="geometry" />
