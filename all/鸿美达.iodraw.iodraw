@@ -38,6 +38,12 @@
         <mxCell id="dI35EAaob4jDQp5fQXdu-162" value="白坯库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="314.31" y="544" width="88.38" height="101" as="geometry" />
         </mxCell>
+        <mxCell id="1BxBkAf_ZfUx7m1qd5nR-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dI35EAaob4jDQp5fQXdu-167" target="dI35EAaob4jDQp5fQXdu-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BxBkAf_ZfUx7m1qd5nR-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dI35EAaob4jDQp5fQXdu-167" target="1BxBkAf_ZfUx7m1qd5nR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-167" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ff8000;fontColor=#000000;strokeColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="294.155" y="422" width="128.69" height="83" as="geometry" />
         </mxCell>
@@ -149,6 +155,9 @@
         <mxCell id="1BxBkAf_ZfUx7m1qd5nR-5" value="织造" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="756" y="435.5" width="103" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="1BxBkAf_ZfUx7m1qd5nR-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1BxBkAf_ZfUx7m1qd5nR-6" target="dI35EAaob4jDQp5fQXdu-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1BxBkAf_ZfUx7m1qd5nR-6" value="检验" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="527.88" y="435.5" width="103" height="56" as="geometry" />
         </mxCell>
@@ -159,10 +168,10 @@
           <mxGeometry x="527.88" y="305.815" width="110" height="54.37" as="geometry" />
         </mxCell>
         <mxCell id="1BxBkAf_ZfUx7m1qd5nR-9" value="客户" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="748.25" y="563" width="103" height="56" as="geometry" />
+          <mxGeometry x="748.25" y="566.5" width="103" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1BxBkAf_ZfUx7m1qd5nR-11" value="发货&lt;br&gt;（PAD）" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="527.88" y="563" width="103" height="56" as="geometry" />
+          <mxGeometry x="527.88" y="566.5" width="103" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1BxBkAf_ZfUx7m1qd5nR-12" value="废布" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="307" y="305" width="103" height="56" as="geometry" />
