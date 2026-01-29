@@ -208,6 +208,9 @@
         <mxCell id="1BxBkAf_ZfUx7m1qd5nR-30" value="销售出库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="660" y="580" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1BxBkAf_ZfUx7m1qd5nR-31" value="合格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="546" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
