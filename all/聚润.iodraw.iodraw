@@ -117,7 +117,7 @@
           <mxGeometry x="184" y="216" width="98" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-52" value="排班管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="184" y="413" width="98" height="49" as="geometry" />
+          <mxGeometry x="184" y="413" width="105" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-53" value="考勤管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="184" y="479" width="105" height="52.5" as="geometry" />
