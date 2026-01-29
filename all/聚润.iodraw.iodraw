@@ -15,7 +15,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-128" value="采购申请" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="341.92" y="48.75" width="108.53" height="51.25" as="geometry" />
+          <mxGeometry x="327.31" y="58.75" width="108.53" height="51.25" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-129" value="机物料采购" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="553.95" y="48.75" width="100" height="42.5" as="geometry" />
@@ -237,6 +237,9 @@
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-86" value="纬纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="903" y="407" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7cwuhs9zK4UwywRmFL9I-87" value="机物料采购" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="510" y="98.75" width="108.53" height="51.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
