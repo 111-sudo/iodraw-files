@@ -108,10 +108,10 @@
           <mxGeometry x="307.1550000000001" y="448" width="128.69" height="83" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-49" value="数字大屏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="184" y="281" width="98" height="49" as="geometry" />
+          <mxGeometry x="184" y="281" width="102" height="51" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-50" value="智能物联" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="184" y="347" width="98" height="49" as="geometry" />
+          <mxGeometry x="184" y="347" width="105" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-51" value="看板系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="184" y="216" width="98" height="49" as="geometry" />
