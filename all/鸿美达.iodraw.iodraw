@@ -29,20 +29,17 @@
         <mxCell id="dI35EAaob4jDQp5fQXdu-156" value="织造" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="460" y="476" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dI35EAaob4jDQp5fQXdu-158" value="检验" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="657.98" y="582.25" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-162" value="白坯库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
-          <mxGeometry x="524.48" y="471" width="70" height="80" as="geometry" />
+          <mxGeometry x="970" y="440" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-164" value="发货&lt;div&gt;（PDA）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="314.5" y="366" width="88" height="41" as="geometry" />
+          <mxGeometry x="782.98" y="520" width="88" height="41" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-165" value="客户" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="396.98" y="542.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-167" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ff8000;fontColor=#000000;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="782.98" y="570" width="100" height="64.5" as="geometry" />
+          <mxGeometry x="840" y="447.75" width="100" height="64.5" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-171" value="数字大屏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="184" y="279" width="90" height="45" as="geometry" />
@@ -145,6 +142,9 @@
         </mxCell>
         <mxCell id="1BxBkAf_ZfUx7m1qd5nR-5" value="织造" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="475.63" y="323" width="103" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="1BxBkAf_ZfUx7m1qd5nR-6" value="检验" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="293.98" y="323" width="103" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
