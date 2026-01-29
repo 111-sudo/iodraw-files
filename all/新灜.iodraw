@@ -267,8 +267,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hxJphBIh6uozcZ-aPPl9-44" value="经纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="562" width="60" height="30" as="geometry" />
+        <mxCell id="hxJphBIh6uozcZ-aPPl9-44" value="纬纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="614.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
