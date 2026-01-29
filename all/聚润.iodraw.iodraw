@@ -235,8 +235,8 @@
         <mxCell id="7cwuhs9zK4UwywRmFL9I-88" value="领料申请" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="864.25" y="105.75" width="108.53" height="51.25" as="geometry" />
         </mxCell>
-        <mxCell id="7cwuhs9zK4UwywRmFL9I-89" value="采购申请" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="977.45" y="54.5" width="108.53" height="51.25" as="geometry" />
+        <mxCell id="7cwuhs9zK4UwywRmFL9I-89" value="物料出库" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="987.47" y="80" width="108.53" height="51.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
