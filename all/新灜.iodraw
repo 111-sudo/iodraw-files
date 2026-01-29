@@ -186,7 +186,7 @@
           <mxGeometry x="810" y="484.75" width="100" height="64.5" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-155" value="合格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1119.94" y="137" width="60" height="30" as="geometry" />
+          <mxGeometry x="850" y="446" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-156" value="不合格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="909.9999999999999" y="518" width="60" height="30" as="geometry" />
