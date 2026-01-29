@@ -82,11 +82,11 @@
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="7cwuhs9zK4UwywRmFL9I-71">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820.5384615384614" y="340" as="sourcePoint" />
+            <mxPoint x="820.5384615384614" y="349" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-43" value="经轴库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="776.75" y="270" width="87.5" height="100" as="geometry" />
+          <mxGeometry x="776.75" y="279" width="87.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7cwuhs9zK4UwywRmFL9I-45" target="7cwuhs9zK4UwywRmFL9I-78">
           <mxGeometry relative="1" as="geometry" />
@@ -105,7 +105,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-48" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ff8000;fontColor=#000000;strokeColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="307.1550000000001" y="407" width="128.69" height="83" as="geometry" />
+          <mxGeometry x="307.1550000000001" y="416" width="128.69" height="83" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-49" value="数字大屏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="184" y="281" width="98" height="49" as="geometry" />
@@ -156,7 +156,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="953" y="206" />
-              <mxPoint x="953" y="479" />
+              <mxPoint x="953" y="449" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -173,25 +173,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-69" value="穿综" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="993" y="292" width="103" height="56" as="geometry" />
+          <mxGeometry x="993" y="301" width="103" height="56" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7cwuhs9zK4UwywRmFL9I-71" target="7cwuhs9zK4UwywRmFL9I-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-71" value="织造" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="769" y="420.5" width="103" height="56" as="geometry" />
+          <mxGeometry x="769" y="429.5" width="103" height="56" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7cwuhs9zK4UwywRmFL9I-73" target="7cwuhs9zK4UwywRmFL9I-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-73" value="检验" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="544.375" y="420.5" width="103" height="56" as="geometry" />
+          <mxGeometry x="544.375" y="429.5" width="103" height="56" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7cwuhs9zK4UwywRmFL9I-75" target="7cwuhs9zK4UwywRmFL9I-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-75" value="外加工经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="540.875" y="292.815" width="110" height="54.37" as="geometry" />
+          <mxGeometry x="540.875" y="301.815" width="110" height="54.37" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-76" value="客户" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="993" y="552.5" width="103" height="56" as="geometry" />
@@ -203,7 +203,7 @@
           <mxGeometry x="769" y="552.5" width="103" height="56" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-79" value="废布" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="320.00000000000006" y="292" width="103" height="56" as="geometry" />
+          <mxGeometry x="320.00000000000006" y="301" width="103" height="56" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-80" value="权限管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=1;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="1125" y="545" width="98" height="49" as="geometry" />
@@ -223,13 +223,13 @@
           <mxGeometry x="373" y="528" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-84" value="不合格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="382.84000000000003" y="377" width="50" height="30" as="geometry" />
+          <mxGeometry x="382.84000000000003" y="386" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-85" value="经纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="771" y="377" width="50" height="30" as="geometry" />
+          <mxGeometry x="771" y="386" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-86" value="纬纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="903" y="377" width="50" height="30" as="geometry" />
+          <mxGeometry x="903" y="386" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7cwuhs9zK4UwywRmFL9I-90" target="dI35EAaob4jDQp5fQXdu-131">
           <mxGeometry relative="1" as="geometry" />
