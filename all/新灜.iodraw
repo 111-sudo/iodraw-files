@@ -177,7 +177,7 @@
           <mxGeometry x="978.98" y="211.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-152" value="销售出库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="943" y="167" width="60" height="30" as="geometry" />
+          <mxGeometry x="910" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hxJphBIh6uozcZ-aPPl9-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JI7UKNBIRY0i_7WP0AxC-153" target="JI7UKNBIRY0i_7WP0AxC-148">
           <mxGeometry relative="1" as="geometry" />
