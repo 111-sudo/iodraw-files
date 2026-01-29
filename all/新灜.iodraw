@@ -120,12 +120,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-125" value="穿综" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="714" y="357" width="80" height="40" as="geometry" />
+          <mxGeometry x="714" y="350" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TOabpEEhNaMSyfxExnQs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JI7UKNBIRY0i_7WP0AxC-127" target="JI7UKNBIRY0i_7WP0AxC-125" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="610" y="370" />
+              <mxPoint x="610" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -263,12 +263,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TOabpEEhNaMSyfxExnQs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TOabpEEhNaMSyfxExnQs-1" target="JI7UKNBIRY0i_7WP0AxC-125" edge="1">
+        <mxCell id="TOabpEEhNaMSyfxExnQs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470.36" y="307" />
-              <mxPoint x="754.36" y="307" />
+              <mxPoint x="470.36" y="360" />
+              <mxPoint x="754.36" y="360" />
             </Array>
+            <mxPoint x="470.36842105263145" y="503" as="sourcePoint" />
+            <mxPoint x="754" y="403" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TOabpEEhNaMSyfxExnQs-1" value="外加工经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
