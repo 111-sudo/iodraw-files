@@ -97,14 +97,6 @@
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-103" value="原料库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="325.36" y="429.5" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JI7UKNBIRY0i_7WP0AxC-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JI7UKNBIRY0i_7WP0AxC-108" target="JI7UKNBIRY0i_7WP0AxC-142" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="360" y="650" />
-              <mxPoint x="754" y="650" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-108" value="原料领用" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="315.36" y="549.5" width="90" height="40" as="geometry" />
         </mxCell>
@@ -193,9 +185,6 @@
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-156" value="不合格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="963.8399999999999" y="607" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JI7UKNBIRY0i_7WP0AxC-157" value="纬纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="632.29" y="612" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -241,7 +230,7 @@
           <mxGeometry x="1119.94" y="685.41" width="92.62" height="92.62" as="geometry" />
         </mxCell>
         <mxCell id="TOabpEEhNaMSyfxExnQs-1" value="外加工经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="425.36" y="450" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="810" y="146.5" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="hxJphBIh6uozcZ-aPPl9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxJphBIh6uozcZ-aPPl9-2" target="hxJphBIh6uozcZ-aPPl9-4">
           <mxGeometry relative="1" as="geometry" />
