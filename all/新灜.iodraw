@@ -290,6 +290,9 @@
         <mxCell id="hxJphBIh6uozcZ-aPPl9-9" value="原料采购" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="315.36" y="358.25" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hxJphBIh6uozcZ-aPPl9-11" value="废布" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="895" y="567.25" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
