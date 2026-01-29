@@ -17,11 +17,8 @@
         <mxCell id="dI35EAaob4jDQp5fQXdu-110" value="机台监控" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="184" y="150" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="dI35EAaob4jDQp5fQXdu-114" value="原料采购" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="297" y="319.25" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dI35EAaob4jDQp5fQXdu-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dI35EAaob4jDQp5fQXdu-116" target="dI35EAaob4jDQp5fQXdu-120" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dI35EAaob4jDQp5fQXdu-114" value="原料采购" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="307" y="174" width="103" height="56" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-116" value="原料库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="307" y="414.25" width="70" height="80" as="geometry" />
