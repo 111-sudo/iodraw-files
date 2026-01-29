@@ -159,7 +159,7 @@
           <mxGeometry x="820" y="593" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-146" value="经纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1008.8399999999999" y="150" width="60" height="30" as="geometry" />
+          <mxGeometry x="640" y="552" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hxJphBIh6uozcZ-aPPl9-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JI7UKNBIRY0i_7WP0AxC-148" target="JI7UKNBIRY0i_7WP0AxC-150">
           <mxGeometry relative="1" as="geometry" />
