@@ -230,13 +230,13 @@
           <mxGeometry x="476.975" y="58.755" width="110" height="54.37" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-91" value="采购申请" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="332.84000000000003" y="58.76" width="103" height="56" as="geometry" />
+          <mxGeometry x="320.00000000000006" y="57.94" width="103" height="56" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-92" value="领料申请" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="821" y="58.75999999999999" width="103" height="56" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-93" value="物料出库" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="982.98" y="110" width="103" height="56" as="geometry" />
+          <mxGeometry x="993" y="58.76" width="103" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
