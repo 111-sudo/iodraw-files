@@ -141,7 +141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-127" value="分条" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="470" y="301" width="80" height="40" as="geometry" />
+          <mxGeometry x="475.59000000000003" y="301" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hxJphBIh6uozcZ-aPPl9-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JI7UKNBIRY0i_7WP0AxC-136" target="JI7UKNBIRY0i_7WP0AxC-142">
           <mxGeometry relative="1" as="geometry" />
