@@ -15,7 +15,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-110" value="机台监控" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="184" y="160" width="98" height="49" as="geometry" />
+          <mxGeometry x="184" y="150" width="98" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1BxBkAf_ZfUx7m1qd5nR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dI35EAaob4jDQp5fQXdu-114" target="dI35EAaob4jDQp5fQXdu-116">
           <mxGeometry relative="1" as="geometry" />
@@ -76,7 +76,7 @@
           <mxGeometry x="184" y="610" width="98" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-178" value="视觉检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=1;flipV=0;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="160" width="98" height="49" as="geometry" />
+          <mxGeometry x="1140" y="150" width="98" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-179" value="报表管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=1;flipV=0;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1140" y="224" width="98" height="49" as="geometry" />
