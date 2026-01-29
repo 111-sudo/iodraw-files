@@ -32,17 +32,17 @@
         <mxCell id="dI35EAaob4jDQp5fQXdu-167" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ff8000;fontColor=#000000;strokeColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="294.155" y="422" width="128.69" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="dI35EAaob4jDQp5fQXdu-171" value="数字大屏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="184" y="279" width="90" height="45" as="geometry" />
+        <mxCell id="dI35EAaob4jDQp5fQXdu-171" value="数字大屏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="184" y="279" width="98" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="dI35EAaob4jDQp5fQXdu-172" value="智能物联" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="184" y="343" width="90" height="45" as="geometry" />
+        <mxCell id="dI35EAaob4jDQp5fQXdu-172" value="智能物联" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="184" y="343" width="98" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="dI35EAaob4jDQp5fQXdu-173" value="看板系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="184" y="214" width="90" height="45" as="geometry" />
+        <mxCell id="dI35EAaob4jDQp5fQXdu-173" value="看板系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=0;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="184" y="214" width="98" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-174" value="排班管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="184" y="407" width="90" height="45" as="geometry" />
+          <mxGeometry x="184" y="407" width="98" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-175" value="考勤管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;arcSize=50;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;flipH=0;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="184" y="471" width="98" height="49" as="geometry" />
