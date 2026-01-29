@@ -132,10 +132,10 @@
           <mxGeometry x="1124" y="150" width="105" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-57" value="设备维保" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=1;flipV=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1124" y="216" width="101" height="50.5" as="geometry" />
+          <mxGeometry x="1124" y="216" width="105" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-58" value="品质管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=1;flipV=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1124" y="282" width="98" height="49" as="geometry" />
+          <mxGeometry x="1124" y="282" width="105" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="7cwuhs9zK4UwywRmFL9I-59" value="条码追溯" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;fillColor=#a1c3e8;strokeColor=#006EAF;fontColor=#000000;flipH=1;flipV=0;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1124" y="347" width="98" height="49" as="geometry" />
