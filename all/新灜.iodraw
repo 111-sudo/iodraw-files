@@ -136,6 +136,9 @@
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-146" value="经纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1008.8399999999999" y="150" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="hxJphBIh6uozcZ-aPPl9-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JI7UKNBIRY0i_7WP0AxC-148" target="JI7UKNBIRY0i_7WP0AxC-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-148" value="白坯库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="823" y="305" width="70" height="80" as="geometry" />
         </mxCell>
@@ -147,6 +150,9 @@
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-152" value="销售出库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="943" y="167" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hxJphBIh6uozcZ-aPPl9-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JI7UKNBIRY0i_7WP0AxC-153" target="JI7UKNBIRY0i_7WP0AxC-148">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-153" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ff8000;fontColor=#000000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="813" y="461.25" width="100" height="64.5" as="geometry" />
