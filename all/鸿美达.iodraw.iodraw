@@ -21,7 +21,7 @@
           <mxGeometry x="307" y="174" width="103" height="56" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-116" value="原料库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="484.25" y="150" width="85.75" height="98" as="geometry" />
+          <mxGeometry x="502.13" y="150" width="85.75" height="98" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-150" value="经轴库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="689.98" y="301.18" width="87.5" height="100" as="geometry" />
@@ -120,10 +120,10 @@
           <mxGeometry x="1116.41" y="682.62" width="99.68" height="98.2" as="geometry" />
         </mxCell>
         <mxCell id="1BxBkAf_ZfUx7m1qd5nR-1" value="原料领用" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="689.98" y="174" width="103" height="56" as="geometry" />
+          <mxGeometry x="710" y="171" width="103" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1BxBkAf_ZfUx7m1qd5nR-2" value="分条" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="930" y="174" width="103" height="56" as="geometry" />
+          <mxGeometry x="870" y="171" width="103" height="56" as="geometry" />
         </mxCell>
         <mxCell id="1BxBkAf_ZfUx7m1qd5nR-3" value="穿综" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="920" y="324" width="103" height="56" as="geometry" />
