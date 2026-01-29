@@ -189,7 +189,7 @@
           <mxGeometry x="1119.94" y="137" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JI7UKNBIRY0i_7WP0AxC-156" value="不合格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="812.9999999999999" y="160" width="60" height="30" as="geometry" />
+          <mxGeometry x="909.9999999999999" y="518" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hxJphBIh6uozcZ-aPPl9-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JI7UKNBIRY0i_7WP0AxC-160" target="JI7UKNBIRY0i_7WP0AxC-162">
           <mxGeometry relative="1" as="geometry" />
