@@ -251,8 +251,12 @@
         <mxCell id="hxJphBIh6uozcZ-aPPl9-11" value="废布" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="978.98" y="589.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hxJphBIh6uozcZ-aPPl9-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=0.106;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JI7UKNBIRY0i_7WP0AxC-153" target="hxJphBIh6uozcZ-aPPl9-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="hxJphBIh6uozcZ-aPPl9-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JI7UKNBIRY0i_7WP0AxC-153" target="hxJphBIh6uozcZ-aPPl9-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1019" y="517" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
