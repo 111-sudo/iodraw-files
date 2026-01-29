@@ -27,7 +27,7 @@
           <mxGeometry x="695.48" y="301" width="87.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-156" value="织造" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="519.48" y="582.25" width="80" height="40" as="geometry" />
+          <mxGeometry x="460" y="476" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dI35EAaob4jDQp5fQXdu-158" value="检验" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="657.98" y="582.25" width="80" height="40" as="geometry" />
@@ -142,6 +142,9 @@
         </mxCell>
         <mxCell id="1BxBkAf_ZfUx7m1qd5nR-3" value="穿综" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="920" y="324" width="103" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="1BxBkAf_ZfUx7m1qd5nR-5" value="织造" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="475.63" y="323" width="103" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
