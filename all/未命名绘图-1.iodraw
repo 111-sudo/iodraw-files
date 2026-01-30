@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="rkYzbnnPaA7jhdLGilgq">
-    <mxGraphModel dx="1615" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,8 +211,11 @@
         <mxCell id="lKTR6XNcudCmPzx1C0tY-171" value="纬纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="684.98" y="604.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_cPu5QVrWBt58Z1zuG1P-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKTR6XNcudCmPzx1C0tY-173" target="lKTR6XNcudCmPzx1C0tY-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-173" value="外加工经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="814" y="326.75" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="760" y="340" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-175" value="创建订单&lt;div&gt;关联工艺&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="307" y="259" width="90" height="42.5" as="geometry" />
@@ -271,7 +274,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-6" value="分条&lt;div&gt;（炮弹车）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="620" y="532" width="80" height="40" as="geometry" />
+          <mxGeometry x="609.5" y="537.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_cPu5QVrWBt58Z1zuG1P-7" target="_cPu5QVrWBt58Z1zuG1P-9">
           <mxGeometry relative="1" as="geometry">
@@ -295,10 +298,15 @@
           <mxGeometry x="456.5" y="350.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_cPu5QVrWBt58Z1zuG1P-11" target="lKTR6XNcudCmPzx1C0tY-135">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="410" />
+              <mxPoint x="806" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-11" value="穿综" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="614.5" y="350.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="609.5" y="350" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_cPu5QVrWBt58Z1zuG1P-14" target="_cPu5QVrWBt58Z1zuG1P-16">
           <mxGeometry relative="1" as="geometry" />
