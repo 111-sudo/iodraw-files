@@ -203,6 +203,7 @@
             <mxPoint x="497" y="264.5" as="sourcePoint" />
             <mxPoint x="778" y="464" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="655" y="460" />
               <mxPoint x="750" y="460" />
               <mxPoint x="750" y="480" />
             </Array>
@@ -273,7 +274,7 @@
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-7" value="加弹库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="461.5" y="425" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_cPu5QVrWBt58Z1zuG1P-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_cPu5QVrWBt58Z1zuG1P-9" target="_cPu5QVrWBt58Z1zuG1P-14">
+        <mxCell id="_cPu5QVrWBt58Z1zuG1P-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_cPu5QVrWBt58Z1zuG1P-9" target="_cPu5QVrWBt58Z1zuG1P-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-9" value="经编整经" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
