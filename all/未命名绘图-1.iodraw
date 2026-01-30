@@ -56,8 +56,13 @@
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKTR6XNcudCmPzx1C0tY-108" target="_cPu5QVrWBt58Z1zuG1P-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_cPu5QVrWBt58Z1zuG1P-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="lKTR6XNcudCmPzx1C0tY-108" target="_cPu5QVrWBt58Z1zuG1P-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_cPu5QVrWBt58Z1zuG1P-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKTR6XNcudCmPzx1C0tY-108" target="_cPu5QVrWBt58Z1zuG1P-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="564" />
+              <mxPoint x="580" y="353" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-108" value="加弹" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="457" y="544.25" width="80" height="40" as="geometry" />
@@ -199,15 +204,14 @@
           <mxGeometry x="684.98" y="604.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-173" value="外加工经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="610" y="547.25" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="604.5" y="430" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lKTR6XNcudCmPzx1C0tY-173" target="lKTR6XNcudCmPzx1C0tY-135" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="497" y="264.5" as="sourcePoint" />
             <mxPoint x="778" y="464" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="655" y="460" />
-              <mxPoint x="750" y="460" />
+              <mxPoint x="750" y="470" />
               <mxPoint x="750" y="480" />
             </Array>
           </mxGeometry>
