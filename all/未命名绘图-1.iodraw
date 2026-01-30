@@ -23,10 +23,11 @@
         <mxCell id="lKTR6XNcudCmPzx1C0tY-103" value="原料库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="315.5" y="190.75" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lKTR6XNcudCmPzx1C0tY-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lKTR6XNcudCmPzx1C0tY-107" target="lKTR6XNcudCmPzx1C0tY-141" edge="1">
+        <mxCell id="lKTR6XNcudCmPzx1C0tY-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lKTR6XNcudCmPzx1C0tY-107" target="lKTR6XNcudCmPzx1C0tY-141" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="351" y="642" />
+              <mxPoint x="290" y="354" />
+              <mxPoint x="290" y="642" />
               <mxPoint x="805" y="642" />
             </Array>
           </mxGeometry>
