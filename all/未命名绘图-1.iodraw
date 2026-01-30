@@ -195,15 +195,6 @@
         <mxCell id="lKTR6XNcudCmPzx1C0tY-171" value="纬纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="684.98" y="604.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lKTR6XNcudCmPzx1C0tY-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="lKTR6XNcudCmPzx1C0tY-135" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="750" y="349" />
-              <mxPoint x="750" y="464" />
-            </Array>
-            <mxPoint x="733" y="349.25" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-173" value="外加工经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="760.5" y="260" width="90" height="42.5" as="geometry" />
         </mxCell>
@@ -269,7 +260,7 @@
           <mxGeometry x="904" y="610" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-6" value="分条&lt;div&gt;（炮弹车）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="578.48" y="544.25" width="80" height="40" as="geometry" />
+          <mxGeometry x="614.5" y="301.5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
