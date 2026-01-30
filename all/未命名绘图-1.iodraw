@@ -40,9 +40,6 @@
         <mxCell id="lKTR6XNcudCmPzx1C0tY-107" value="原料领用" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="307" y="544.25" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_cPu5QVrWBt58Z1zuG1P-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKTR6XNcudCmPzx1C0tY-108" target="_cPu5QVrWBt58Z1zuG1P-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-108" value="加弹" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="457" y="544.25" width="80" height="40" as="geometry" />
         </mxCell>
@@ -95,7 +92,7 @@
           <mxGeometry x="904" y="544.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-144" value="纬纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="650" y="474.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="684.5" y="537.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-145" value="经纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="760" y="507.25" width="60" height="30" as="geometry" />
@@ -246,14 +243,8 @@
         <mxCell id="2W0mbyY-l9XR30uF1X6N-3" value="废布" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="904" y="610" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_cPu5QVrWBt58Z1zuG1P-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="_cPu5QVrWBt58Z1zuG1P-1" target="lKTR6XNcudCmPzx1C0tY-141">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-1" value="炮弹车&lt;div&gt;（分条）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="578.48" y="546" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_cPu5QVrWBt58Z1zuG1P-5" value="经编" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="530" y="334" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
