@@ -53,6 +53,9 @@
         <mxCell id="lKTR6XNcudCmPzx1C0tY-107" value="原料领用" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="307" y="544.25" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_cPu5QVrWBt58Z1zuG1P-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKTR6XNcudCmPzx1C0tY-108" target="_cPu5QVrWBt58Z1zuG1P-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-108" value="加弹" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="457" y="544.25" width="80" height="40" as="geometry" />
         </mxCell>
@@ -263,7 +266,7 @@
           <mxGeometry x="614.5" y="301.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-7" value="加弹库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
-          <mxGeometry x="464.98" y="424.25" width="70" height="80" as="geometry" />
+          <mxGeometry x="461.5" y="425" width="70" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
