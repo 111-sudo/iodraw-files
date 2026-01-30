@@ -26,7 +26,7 @@
         <mxCell id="lKTR6XNcudCmPzx1C0tY-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lKTR6XNcudCmPzx1C0tY-107" target="lKTR6XNcudCmPzx1C0tY-141" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="330" />
+              <mxPoint x="290" y="420" />
               <mxPoint x="290" y="642" />
               <mxPoint x="805" y="642" />
             </Array>
@@ -252,7 +252,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-6" value="分条&lt;div&gt;（炮弹车）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="603.5" y="556.25" width="80" height="40" as="geometry" />
+          <mxGeometry x="603.98" y="455.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_cPu5QVrWBt58Z1zuG1P-7" target="_cPu5QVrWBt58Z1zuG1P-9">
           <mxGeometry relative="1" as="geometry">
