@@ -92,11 +92,6 @@
         <mxCell id="lKTR6XNcudCmPzx1C0tY-135" value="经轴库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
           <mxGeometry x="770.5" y="424.25" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lKTR6XNcudCmPzx1C0tY-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="lKTR6XNcudCmPzx1C0tY-135" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="805.5" y="369.25" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="lKTR6XNcudCmPzx1C0tY-141" target="lKTR6XNcudCmPzx1C0tY-143" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -200,17 +195,8 @@
         <mxCell id="lKTR6XNcudCmPzx1C0tY-171" value="纬纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="684.98" y="604.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lKTR6XNcudCmPzx1C0tY-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="lKTR6XNcudCmPzx1C0tY-135" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="750" y="349" />
-              <mxPoint x="750" y="464" />
-            </Array>
-            <mxPoint x="733" y="349.25" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-173" value="外加工经轴" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="760.5" y="260" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="464.98" y="374.5" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lKTR6XNcudCmPzx1C0tY-173" target="lKTR6XNcudCmPzx1C0tY-135" edge="1">
           <mxGeometry relative="1" as="geometry">
