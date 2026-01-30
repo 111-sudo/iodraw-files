@@ -241,7 +241,7 @@
           <mxGeometry x="973.84" y="689.2204724409448" width="105" height="105" as="geometry" />
         </mxCell>
         <mxCell id="2W0mbyY-l9XR30uF1X6N-3" value="废布" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="903" y="622" width="80" height="40" as="geometry" />
+          <mxGeometry x="1048" y="365.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_cPu5QVrWBt58Z1zuG1P-6" target="_cPu5QVrWBt58Z1zuG1P-11">
           <mxGeometry relative="1" as="geometry">
