@@ -56,14 +56,13 @@
         <mxCell id="lKTR6XNcudCmPzx1C0tY-108" value="加弹" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="457" y="544.25" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lKTR6XNcudCmPzx1C0tY-110" value="抱瓶库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
-          <mxGeometry x="462" y="424.25" width="70" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lKTR6XNcudCmPzx1C0tY-101" target="lKTR6XNcudCmPzx1C0tY-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lKTR6XNcudCmPzx1C0tY-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lKTR6XNcudCmPzx1C0tY-108" target="lKTR6XNcudCmPzx1C0tY-110" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="lKTR6XNcudCmPzx1C0tY-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lKTR6XNcudCmPzx1C0tY-108" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="497" y="504.25" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lKTR6XNcudCmPzx1C0tY-114" target="lKTR6XNcudCmPzx1C0tY-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -142,9 +141,6 @@
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-131" value="三元库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="565" y="424.25" width="70" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="lKTR6XNcudCmPzx1C0tY-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lKTR6XNcudCmPzx1C0tY-110" target="lKTR6XNcudCmPzx1C0tY-124" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lKTR6XNcudCmPzx1C0tY-128" target="lKTR6XNcudCmPzx1C0tY-131" edge="1">
           <mxGeometry relative="1" as="geometry" />
