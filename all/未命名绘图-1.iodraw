@@ -124,7 +124,7 @@
           <mxGeometry x="904" y="544.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-145" value="经纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="775.5" y="507.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="760" y="507.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="lKTR6XNcudCmPzx1C0tY-147" target="lKTR6XNcudCmPzx1C0tY-149" edge="1">
           <mxGeometry relative="1" as="geometry" />
