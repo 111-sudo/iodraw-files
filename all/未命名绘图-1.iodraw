@@ -263,7 +263,7 @@
           <mxGeometry x="904" y="610" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-6" value="分条&lt;div&gt;（炮弹车）&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="660" y="269" width="80" height="40" as="geometry" />
+          <mxGeometry x="660" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="_cPu5QVrWBt58Z1zuG1P-7" target="_cPu5QVrWBt58Z1zuG1P-9">
           <mxGeometry relative="1" as="geometry">
@@ -277,6 +277,9 @@
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-9" value="经编" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="464.98" y="294" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_cPu5QVrWBt58Z1zuG1P-11" value="穿综" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="650" y="369.25" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
