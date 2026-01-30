@@ -41,7 +41,7 @@
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKTR6XNcudCmPzx1C0tY-107" target="_cPu5QVrWBt58Z1zuG1P-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="409" y="576" />
+              <mxPoint x="409" y="390" />
               <mxPoint x="409" y="376" />
             </Array>
           </mxGeometry>
