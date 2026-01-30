@@ -108,7 +108,7 @@
           <mxGeometry x="904" y="544.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-144" value="纬纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="420" y="274" width="60" height="30" as="geometry" />
+          <mxGeometry x="440" y="274" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-145" value="经纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="760" y="507.25" width="60" height="30" as="geometry" />
@@ -278,7 +278,7 @@
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-7" value="加弹库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="461.5" y="425" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_cPu5QVrWBt58Z1zuG1P-9" value="经编" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="_cPu5QVrWBt58Z1zuG1P-9" value="经编整经" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="510" y="289" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_cPu5QVrWBt58Z1zuG1P-11" target="lKTR6XNcudCmPzx1C0tY-135">
