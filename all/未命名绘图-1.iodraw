@@ -284,7 +284,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-11" value="穿综" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="603.5" y="410" width="80" height="40" as="geometry" />
+          <mxGeometry x="603.5" y="360.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_cPu5QVrWBt58Z1zuG1P-14" target="_cPu5QVrWBt58Z1zuG1P-16">
           <mxGeometry relative="1" as="geometry" />
