@@ -57,7 +57,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-108" value="加弹" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="456" y="556.25" width="80" height="40" as="geometry" />
+          <mxGeometry x="310.5" y="568.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lKTR6XNcudCmPzx1C0tY-114" target="lKTR6XNcudCmPzx1C0tY-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
