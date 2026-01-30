@@ -50,6 +50,9 @@
         <mxCell id="lKTR6XNcudCmPzx1C0tY-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lKTR6XNcudCmPzx1C0tY-107" target="lKTR6XNcudCmPzx1C0tY-108" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_cPu5QVrWBt58Z1zuG1P-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="lKTR6XNcudCmPzx1C0tY-107" target="_cPu5QVrWBt58Z1zuG1P-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-107" value="原料领用" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="307" y="544.25" width="90" height="40" as="geometry" />
         </mxCell>
@@ -297,7 +300,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-14" value="经编织造" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="450" y="260.25" width="80" height="40" as="geometry" />
+          <mxGeometry x="457" y="259" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_cPu5QVrWBt58Z1zuG1P-16" target="lKTR6XNcudCmPzx1C0tY-149">
           <mxGeometry relative="1" as="geometry" />
