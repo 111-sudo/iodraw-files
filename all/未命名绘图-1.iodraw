@@ -282,7 +282,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-9" value="经编整经" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="510" y="289" width="80" height="40" as="geometry" />
+          <mxGeometry x="451.5" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_cPu5QVrWBt58Z1zuG1P-11" target="lKTR6XNcudCmPzx1C0tY-135">
           <mxGeometry relative="1" as="geometry" />
