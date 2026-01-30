@@ -278,6 +278,9 @@
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-7" value="加弹库存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="461.5" y="425" width="70" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="_cPu5QVrWBt58Z1zuG1P-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_cPu5QVrWBt58Z1zuG1P-9" target="_cPu5QVrWBt58Z1zuG1P-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-9" value="经编整经" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="510" y="289" width="80" height="40" as="geometry" />
         </mxCell>
@@ -288,7 +291,7 @@
           <mxGeometry x="765.5" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_cPu5QVrWBt58Z1zuG1P-14" value="经编织造" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="537" y="390.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="590" y="385" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
