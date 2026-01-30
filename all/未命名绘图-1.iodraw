@@ -50,7 +50,15 @@
         <mxCell id="lKTR6XNcudCmPzx1C0tY-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lKTR6XNcudCmPzx1C0tY-107" target="lKTR6XNcudCmPzx1C0tY-108" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_cPu5QVrWBt58Z1zuG1P-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="lKTR6XNcudCmPzx1C0tY-107" target="_cPu5QVrWBt58Z1zuG1P-9">
+        <mxCell id="_cPu5QVrWBt58Z1zuG1P-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKTR6XNcudCmPzx1C0tY-107" target="_cPu5QVrWBt58Z1zuG1P-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="564" />
+              <mxPoint x="410" y="364" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_cPu5QVrWBt58Z1zuG1P-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="lKTR6XNcudCmPzx1C0tY-107" target="_cPu5QVrWBt58Z1zuG1P-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-107" value="原料领用" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#96cf07;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
