@@ -105,7 +105,7 @@
           <mxGeometry x="904" y="544.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-144" value="纬纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="684.5" y="537.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="550" y="353" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lKTR6XNcudCmPzx1C0tY-145" value="经纱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="760" y="507.25" width="60" height="30" as="geometry" />
